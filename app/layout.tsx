@@ -2,6 +2,10 @@ import type { Metadata } from 'next';
 import {Open_Sans} from 'next/font/google';
 import './globals.css';
 import {ReactNode} from 'react';
+import Header from '@/layout/Header/Header';
+import cn from 'classnames';
+import styles from './layout.module.css';
+import Footer from '@/layout/Footer/Footer';
 
 const inter = Open_Sans({ subsets: ['latin'] });
 
@@ -17,7 +21,13 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="ru">
-			<body className={inter.className}>{children}</body>
+			<body className={cn(inter.className, styles.container)}>
+				<Header className={styles.header}/>
+				<main className={styles.main}>
+					{children}
+				</main>
+				<Footer className={styles.footer}/>
+			</body>
 		</html>
 	);
 }

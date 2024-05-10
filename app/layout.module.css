@@ -1,0 +1,26 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    max-width: 1110px;
+    margin: 0 auto;
+    padding: 0 5px;
+}
+
+.header {
+
+}
+
+.main {
+    flex: 1 1 auto;
+}
+
+.footer {
+    background-color: var(--white);
+    height: 50px;
+    width: 100vw;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

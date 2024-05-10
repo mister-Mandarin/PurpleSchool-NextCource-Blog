@@ -2,4 +2,10 @@
     display: flex;
     align-items: center;
     color: var(--orange);
+    padding: 5px;
+}
+
+.link:hover {
+    border-radius: 5px;
+    outline: 1px dashed var(--orange);
 }

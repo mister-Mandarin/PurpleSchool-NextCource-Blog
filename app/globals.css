@@ -32,6 +32,7 @@ html {
 
   /* дополнительно моё */
   padding: 0;
+  height: 100%;
 
   color: var(--black);
   background: var(--white-gray);

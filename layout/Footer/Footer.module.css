@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: var(--gray);
+    max-width: 1110px;
+    margin: 0 auto;
+    padding: 0 5px;
+    height: 100%;
+}

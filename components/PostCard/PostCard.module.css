@@ -1,0 +1,71 @@
+.card {
+    max-width: 350px;
+    box-shadow: 0px 4px 4px 0px rgba(255, 79, 0, 0.25);
+    border-radius: 12px;
+    background-color: var(--white);
+    padding: 10px;
+}
+
+.image {
+    max-width: 330px;
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+}
+
+.preHeader {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    color: var(--gray);
+    margin-bottom: 6px;
+}
+
+.preHeader > span {
+    margin-left: auto;
+}
+
+.tag {
+    color: var(--gray-black);
+}
+
+.tag::after {
+    content: '·';
+    margin: 0 5px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    margin-bottom: 6px;
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-bottom: 22px;
+    color: var(--gray);
+
+    /*обрезаем текст до 3 строк*/
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    color: var(--gray);
+}

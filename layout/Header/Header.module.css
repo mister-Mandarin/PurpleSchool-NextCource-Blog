@@ -1,0 +1,9 @@
+.logo {
+    margin-bottom: -3px;
+}
+
+.headerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

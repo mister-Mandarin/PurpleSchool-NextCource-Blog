@@ -1,12 +1,8 @@
 import styles from './PostCard.module.css';
 import Image from 'next/image';
 import CardIcon from './template.png';
-import {HTMLAttributes} from 'react';
 import LikeCounter from '@/components/LikeCounter/LikeCounter';
 import PostLink from '@/components/PostCard/PostLink/PostLink';
-
-interface PostCardProps extends HTMLAttributes<HTMLDivElement> {
-}
 
 export default function PostCard() {
 

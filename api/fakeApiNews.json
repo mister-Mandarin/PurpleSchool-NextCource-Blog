@@ -1,0 +1,483 @@
+{
+  "data": [
+    {
+      "id": "4105632",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T05:51:55-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "us": {
+            "id": 326,
+            "path": "/",
+            "slug": "us",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "financials": {
+            "id": 12974,
+            "path": "/market-news/financials",
+            "slug": "financials",
+            "title": "Financials ",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "small-cap": {
+            "id": 115422,
+            "path": "/",
+            "slug": "small-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "hidden-from-qp": {
+            "id": 578794,
+            "path": "/",
+            "slug": "hidden-from-qp",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Encore Capital Group upsizes and prices $500M senior notes",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T05:51:56-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul> <li>Encore Capital Group (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/ECPG\" title=\"Encore Capital Group, Inc.\">ECPG</a></span>) <a href=\"https://seekingalpha.com/pr/19723430-encore-capital-group-inc-announces-pricing-of-upsized-senior-secured-notes-offering\" rel=\"nofollow\">priced</a> its offering of $500M aggregate principal amount of 8.500% senior secured notes due 2030, which was upsized by $100M from $400M, at an issue price of 100.000% in a private offering to qualified institutional buyers.</li> <li>The<span class=\"paywall-full-content invisible\"> notes will accrue interest at a rate of 8.500% per annum, payable semi-annually in arrears on May 15 and November 15 of each year, beginning on November 15, 2024. </span> </li> <li class=\"paywall-full-content invisible\">The notes will mature on May 15, 2030 unless earlier repurchased or redeemed by the company.</li> <li class=\"paywall-full-content invisible\">Net proceeds will be used to repay drawings under its revolving credit facility, to pay certain transaction fees and expenses incurred in connection with the offering of the notes and for general corporate purposes. </li> </ul> <div id=\"more-links\" class=\"paywall-full-content invisible\"> <h2>More on Encore Capital</h2> <ul> <li><a href=\"https://seekingalpha.com/article/4674143-encore-capital-slumps-after-earnings-despite-solid-financial-position-favorable-fundamentals\" class=\"more-link\">Encore Capital Group: Debt Collector Slumps After Earnings Despite Solid Financial Position And Favorable Fundamentals (Speculative Buy)</a></li> <li><a href=\"https://seekingalpha.com/news/4105042-encore-capital-to-offer-400m-senior-secured-notes-in-private-offering\" class=\"more-link\">Encore Capital to offer $400M senior secured notes in private offering</a></li> <li><a href=\"https://seekingalpha.com/news/4101592-encore-capital-q1-2024-earnings-preview\" class=\"more-link\">Encore Capital Q1 2024 Earnings Preview</a></li> </ul> </div>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "51785401",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "5066",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4105632-encore-capital-group-upsizes-and-prices-500m-senior-notes",
+        "canonical": "https://seekingalpha.com/news/4105632-encore-capital-group-upsizes-and-prices-500m-senior-notes",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    },
+    {
+      "id": "4105603",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T05:37:36-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1448326182/image_1448326182.jpg",
+        "videoPreviewUrl": null,
+        "themes": {
+          "earnings": {
+            "id": 10,
+            "path": "/market-news/earnings",
+            "slug": "earnings",
+            "title": "Earnings News",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "technology": {
+            "id": 17994,
+            "path": "/",
+            "slug": "technology",
+            "title": null,
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "taiwan": {
+            "id": 18101,
+            "path": "/",
+            "slug": "taiwan",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "small-cap": {
+            "id": 115422,
+            "path": "/",
+            "slug": "small-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "guidance": {
+            "id": 601061,
+            "path": "/",
+            "slug": "guidance",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "ai-tech": {
+            "id": 764439,
+            "path": "/",
+            "slug": "ai-tech",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Foxconn Q1 profit surges 72% boosted by demand for AI servers, but misses estimates",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T05:44:55-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<p>Foxconn Technology (<a href=\"https://seekingalpha.com/symbol/FXCOF\" title=\"Foxconn Technology Co., Ltd.\">OTCPK:FXCOF</a>) first quarter net profit soared 72% year-over-year, driven by strong demand for AI servers, but the growth was lower than expected.</p> <p>The Apple (<a href=\"https://seekingalpha.com/symbol/AAPL\" title=\"Apple Inc.\">AAPL</a>) supplier — which is formally known as Hon Hai Precision (<a href=\"https://seekingalpha.com/symbol/HNHAF\" title=\"Hon Hai Precision Industry Co., Ltd.\">OTCPK:HNHAF</a><span class=\"paywall-full-content invisible\">) (</span><a href=\"https://seekingalpha.com/symbol/HNHPF\" title=\"Hon Hai Precision Industry Co., Ltd.\" class=\"paywall-full-content invisible\">OTCPK:HNHPF</a><span class=\"paywall-full-content invisible\">) — </span><a href=\"https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1336\" target=\"_blank\" class=\"paywall-full-content invisible\">said</a><span class=\"paywall-full-content invisible\"> the first quarter net profit (attributable to the owners of the parent company) at was NT$22B.</span></p> <p class=\"paywall-full-content invisible\">While this rose 72% year-over-year it missed an average estimate of NT$29.1B, according to a <a href=\"https://www.bloomberg.com/news/articles/2024-05-14/iphone-maker-hon-hai-misses-profit-estimates-in-a-china-downturn?srnd=technology-vp\" target=\"_blank\">report</a> from Bloomberg News. The miss, in part, indicates the heightened expectations around AI.</p> <p class=\"paywall-full-content invisible\">Compared to the fourth quarter of 2023, net profit declined -59% when it amounted to NT$53.15B.</p> <p class=\"paywall-full-content invisible\">First <a href=\"https://image.honhai.com/financy_by_quarterly/Hon_Hai_1Q24_Results_English.pdf\" target=\"_blank\">revenue</a> declined -9% year-over-year to NT$1.324T, while quarter-over-quarter it plunged -29%.</p> <p class=\"paywall-full-content invisible\">Foxconn's said that due to continued increase in demand for AI servers, revenue from AI servers in the first quarter grew about 200% compared to the same period a year ago and is expected to improve with each quarter.</p> <p class=\"paywall-full-content invisible\">At the same time, general server demand also continues to rebound, leading to strong growth in overall servers. Demand for networking products has also started to rebound, the company added.</p> <p class=\"paywall-full-content invisible\"><strong>Outlook</strong>: The company expects significant growth quarter-on-quarter and year-on-year in the second quarter. The magnitude will be better than the average level of the past three years.</p> <p class=\"paywall-full-content invisible\">\"Looking ahead at the second quarter, despite its traditional off-peak season and with the exception of smart consumer electronics, the other three major product segments should experience strong growth, reflecting the Group’s leading edge in the ICT industry and capabilities to attract new business,\" the company said in a press release on Tuesday.</p> <p class=\"paywall-full-content invisible\"><strong>For the full year 2024</strong>: The company noted that due to strong demand for AI servers, visibility for the full year is better than at the beginning of the year. In March, Foxconn raised its full-year 2024 outlook from neutral to significant growth. The outlook remains unchanged.</p> <p class=\"paywall-full-content invisible\">On Tuesday, the company's Japanese unit Sharp (<a href=\"https://seekingalpha.com/symbol/SHCAY\" title=\"Sharp Corporation\">OTCPK:SHCAY</a>) (<a href=\"https://seekingalpha.com/symbol/SHCAF\" title=\"Sharp Corporation\">OTCPK:SHCAF</a>) said it is divesting its camera module and semiconductor business and turning a key display plant in Sakai into an AI datacenter, the report added.</p> <p class=\"paywall-full-content invisible\">\"The worst is behind SHARP. Its future only gets better from here,\" Foxconn said in the press release.</p> <p class=\"paywall-full-content invisible\">The company noted that SHARP has set aside asset impairment from the panel display business to facilitate its move to become asset light.</p> <p class=\"paywall-full-content invisible\">Foxconn added that, going forward, it will cooperate with SHARP to integrate its smart products for people, vehicles, home and office into its 3+3 strategy.</p> <p class=\"paywall-full-content invisible\">In addition, Foxconn said that in the field of autonomous driving, it continues to cooperate with Nvidia (<a href=\"https://seekingalpha.com/symbol/NVDA\" title=\"NVIDIA Corporation\">NVDA</a>) to optimize the development of autonomous driving software.</p> <div id=\"more-links\" class=\"paywall-full-content invisible\"> <h2>More on Foxconn </h2> <ul> <li><a href=\"https://seekingalpha.com/news/4100093-foxconn-reaffirms-q2-revenue-to-grow-april-sees-record-sales\" class=\"more-link\">Foxconn reaffirms Q2 revenue to grow, April sees record sales</a></li> <li><a href=\"https://seekingalpha.com/news/4087634-apple-supplier-foxconn-expects-q2-growth-after-q1-revenue-falls\" class=\"more-link\">Apple supplier Foxconn expects Q2 growth after Q1 revenue falls</a></li> <li><a href=\"https://seekingalpha.com/symbol/FXCOF/earnings\" class=\"more-link\">Historical earnings data for Foxconn Technology Co., Ltd.</a></li> <li><a href=\"https://seekingalpha.com/symbol/FXCOF/dividends/scorecard\" class=\"more-link\">Dividend scorecard for Foxconn Technology Co., Ltd.</a></li> <li><a href=\"https://seekingalpha.com/symbol/FXCOF/income-statement\" class=\"more-link\">Financial information for Foxconn Technology Co., Ltd.</a></li> </ul> </div>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "54324280",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "24867",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "146",
+              "type": "tag"
+            },
+            {
+              "id": "1150",
+              "type": "tag"
+            },
+            {
+              "id": "7020",
+              "type": "tag"
+            },
+            {
+              "id": "25898",
+              "type": "tag"
+            },
+            {
+              "id": "31310",
+              "type": "tag"
+            },
+            {
+              "id": "577009",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": [
+            {
+              "id": "764439",
+              "type": "tag"
+            }
+          ]
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4105603-foxconn-q1-profit-surges-72-boosted-by-demand-for-ai-servers-but-misses-estimates",
+        "canonical": "https://seekingalpha.com/news/4105603-foxconn-q1-profit-surges-72-boosted-by-demand-for-ai-servers-but-misses-estimates",
+        "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1448326182/image_1448326182.jpg?io=getty-c-w750",
+        "schemaImage": [
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1448326182/image_1448326182.jpg?io=getty-c-w1280",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1448326182/image_1448326182.jpg?io=getty-c-crop-16-9",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1448326182/image_1448326182.jpg?io=getty-c-crop-4-3"
+        ]
+      }
+    }
+  ],
+  "included": [
+    {
+      "id": "51785401",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 51785401,
+        "image": {
+          "small": "https://static1.seekingalpha.com/images/users_profile/051/785/401/small_pic.png?t=a6852ef758",
+          "medium": "https://static1.seekingalpha.com/images/users_profile/051/785/401/medium_pic.png?t=36999086eb",
+          "big": "https://static1.seekingalpha.com/images/users_profile/051/785/401/big_pic.png?t=cbeeb832ca",
+          "extra_large": "https://static1.seekingalpha.com/images/users_profile/051/785/401/extra_large_pic.png?t=92975e1cae"
+        },
+        "nick": "Manshi Mamtora, CFA, SA News Editor",
+        "bio": "<p>Manshi Mamtora is a news editor at Seeking Alpha and is based in Mumbai, India. She is a Chartered Financial Analyst and has 14 years of experience in the research and report-writing space. Her passion for markets and analysis both keep her hooked on the writing desk. She joined Seeking Alpha in June 2020, where she covers macro events, analyst ratings, fund letters, European market updates, dividends, earnings, and more. Precious metals, technology, cryptocurrencies, and derivatives are among a few other areas of expertise.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/51785401",
+        "profileUrl": "/user/51785401"
+      }
+    },
+    {
+      "id": "5066",
+      "type": "tag",
+      "attributes": {
+        "slug": "ecpg",
+        "name": "ECPG",
+        "company": "Encore Capital Group, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/ECPG"
+      }
+    },
+    {
+      "id": "54324280",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 54324280,
+        "image": {
+          "small": "https://static.seekingalpha.com/images/users_profile/054/324/280/small_pic.png?t=fc5e7d0287",
+          "medium": "https://static.seekingalpha.com/images/users_profile/054/324/280/medium_pic.png?t=8e2c9daa9d",
+          "big": "https://static.seekingalpha.com/images/users_profile/054/324/280/big_pic.png?t=8eb13cd42f",
+          "extra_large": "https://static.seekingalpha.com/images/users_profile/054/324/280/extra_large_pic.png?t=408ecf97f1"
+        },
+        "nick": "Ravikash Bakolia, SA News Editor",
+        "bio": "<p>Ravikash Bakolia (He/Him) is a Technology Editor at Seeking Alpha, specializing in market-moving news on tech companies across Asia, Europe, and the U.S. He brings his experience of covering the complex world of Healthcare, where he spent over six years writing about clinical trials, mergers and acquisitions, and regulatory activities related to global healthcare companies.</p><p>Ravikash joined Seeking Alpha in May 2021 after working at S&amp;P Global for over four years. He holds a Post-Graduate Diploma in Journalism and a Master of Arts in Economics, making him a well-rounded and insightful journalist who is committed to delivering in-depth analysis and informed perspectives.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/54324280",
+        "profileUrl": "/user/54324280"
+      }
+    },
+    {
+      "id": "24867",
+      "type": "tag",
+      "attributes": {
+        "slug": "fxcof",
+        "name": "FXCOF",
+        "company": "Foxconn Technology Co., Ltd.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/FXCOF"
+      }
+    },
+    {
+      "id": "146",
+      "type": "tag",
+      "attributes": {
+        "slug": "aapl",
+        "name": "AAPL",
+        "company": "Apple Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/AAPL"
+      }
+    },
+    {
+      "id": "1150",
+      "type": "tag",
+      "attributes": {
+        "slug": "nvda",
+        "name": "NVDA",
+        "company": "NVIDIA Corporation",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/NVDA"
+      }
+    },
+    {
+      "id": "7020",
+      "type": "tag",
+      "attributes": {
+        "slug": "hnhaf",
+        "name": "HNHAF",
+        "company": "Hon Hai Precision Industry Co., Ltd.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/HNHAF"
+      }
+    },
+    {
+      "id": "25898",
+      "type": "tag",
+      "attributes": {
+        "slug": "hnhpf",
+        "name": "HNHPF",
+        "company": "Hon Hai Precision Industry Co., Ltd.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 8,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/HNHPF"
+      }
+    },
+    {
+      "id": "31310",
+      "type": "tag",
+      "attributes": {
+        "slug": "shcaf",
+        "name": "SHCAF",
+        "company": "Sharp Corporation",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/SHCAF"
+      }
+    },
+    {
+      "id": "577009",
+      "type": "tag",
+      "attributes": {
+        "slug": "shcay",
+        "name": "SHCAY",
+        "company": "Sharp Corporation",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 8,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/SHCAY"
+      }
+    }
+  ],
+  "meta": {
+    "page": {
+      "title": "Breaking Stock Market News",
+      "description": "Breaking news and real-time stock market updates from Seeking Alpha. Check out the latest investing news and financial headlines.",
+      "listTitle": "Market News",
+      "listDescription": "",
+      "proStatus": 0,
+      "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "size": 2,
+      "totalPages": 4604,
+      "total": 9207,
+      "minmaxPublishOn": {
+        "min": 1715679456,
+        "max": 1715680315
+      }
+    },
+    "mone": {
+      "params": {
+        "pu": ""
+      }
+    }
+  }
+}

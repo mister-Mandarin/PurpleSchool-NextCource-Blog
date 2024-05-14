@@ -1,13 +1,16 @@
+'use client';
+
 import styles from './PostCard.module.css';
-import Image from 'next/image';
 import LikeCounter from '@/components/LikeCounter/LikeCounter';
 import PostLink from '@/components/PostCard/PostLink/PostLink';
 import {News} from '@/interface/news';
-import {formatTimeAgo} from './formatTime';
+import {formatTimeAgo} from '@/helpers/formatTime';
 import PostTag from '@/components/PostCard/PostTag/PostTag';
+import {parse} from 'node-html-parser';
 
 export default function PostCard({...props}: News) {
 	const postDate = formatTimeAgo(new Date(props.attributes.publishOn));
+	const description = parse(props.attributes.content);
 
 	return (
 		<article className={styles.card}>
@@ -18,7 +21,7 @@ export default function PostCard({...props}: News) {
 				<LikeCounter numberLikes={Number(props.id)} />
 			</div>
 			<h2 className={styles.title}>{props.attributes.title}</h2>
-			<p className={styles.description}>{props.attributes.content}</p>
+			<p className={styles.description}>{description.text}</p>
 			<div className={styles.footer}>
 				<div >3 минуты</div>
 				<PostLink />

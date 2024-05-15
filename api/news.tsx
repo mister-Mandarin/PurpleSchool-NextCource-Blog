@@ -4,7 +4,7 @@ import {News, NewsData} from '@/interface/news';
 
 export async function getNews() {
 	const response = await fetch(process.env.NEXT_PUBLIC_API_URL
-		+ '?category=orange&size=2&number=1', {
+		+ '?category=market-news%3A%3Aall&&size=2&number=1', {
 		method: 'GET',
 		// @ts-ignore
 		headers: {

@@ -18,6 +18,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
     justify-content: space-between;
+    align-items: start;
     gap: 15px;
     flex: 1 0 auto;
 }

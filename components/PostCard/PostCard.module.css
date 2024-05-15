@@ -47,6 +47,12 @@
     font-weight: 700;
     line-height: 25px;
     margin-bottom: 6px;
+
+    /*обрезаем текст до 2 строк*/
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
 }
 
 .description {

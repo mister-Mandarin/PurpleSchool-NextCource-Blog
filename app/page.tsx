@@ -1,6 +1,5 @@
 import PostCard from '@/components/PostCard/PostCard';
-import LikeButton from '@/components/LikeButton/LikeButton';
-import {getNews} from '@/api/news';
+import {getNews} from '@/api/getNews';
 import {News, NewsData} from '@/interface/news';
 
 export default async function Home() {
@@ -10,7 +9,6 @@ export default async function Home() {
 	return (
 		<>
 			{news && news.map(post => <PostCard key={post.id} {...post}/>)}
-			<LikeButton />
 		</>
 	);
 }

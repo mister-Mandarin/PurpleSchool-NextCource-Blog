@@ -23,7 +23,7 @@ export default function PostCard({...props}: News) {
 			<p className={styles.description}>{description.text}</p>
 			<div className={styles.footer}>
 				<div >3 минуты</div>
-				<PostLink />
+				<PostLink idnews={props.id}/>
 			</div>
 		</article>
 	);

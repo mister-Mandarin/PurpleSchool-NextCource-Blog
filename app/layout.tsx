@@ -6,6 +6,7 @@ import Header from '@/layout/Header/Header';
 import cn from 'classnames';
 import styles from './layout.module.css';
 import Footer from '@/layout/Footer/Footer';
+import GitLogoProvider from '@/context/GitLogo.context';
 
 const inter = Open_Sans({ subsets: ['latin'] });
 
@@ -22,7 +23,9 @@ export default function RootLayout({
 	return (
 		<html lang="ru">
 			<body className={cn(inter.className, styles.container)}>
-				<Header className={styles.header}/>
+				<GitLogoProvider>
+					<Header className={styles.header}/>
+				</GitLogoProvider>
 				<main className={styles.main}>
 					{children}
 				</main>

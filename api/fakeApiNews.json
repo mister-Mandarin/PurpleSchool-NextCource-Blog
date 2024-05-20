@@ -1,0 +1,2835 @@
+{
+  "data": [
+    {
+      "id": "4106241",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-15T01:37:51-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "canada": {
+            "id": 34503,
+            "path": "/",
+            "slug": "canada",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "small-cap": {
+            "id": 115422,
+            "path": "/",
+            "slug": "small-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "dividend-stocks": {
+            "id": 612948,
+            "path": "/",
+            "slug": "dividend-stocks",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "dividends": {
+            "id": 614464,
+            "path": "/market-news/dividend-stocks",
+            "slug": "dividends",
+            "title": "Dividend Stocks News",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          }
+        },
+        "title": "Superior Plus declares CAD 0.18 dividend",
+        "isPaywalled": false,
+        "lastModified": "2024-05-15T01:37:53-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul>\n<li>Superior Plus (<a href=\"https://seekingalpha.com/symbol/SUUIF\" title=\"Superior Plus Corp.\">OTCPK:SUUIF</a>) declares <a href=\"https://seekingalpha.com/pr/19725659-superior-plus-declares-2024-second-quarter-dividend\" target=\"_blank\" rel=\"nofollow\">CAD 0.18/share quarterly dividend</a>, in line with previous.</li>\n<li>\n<a href=\"https://seekingalpha.com/symbol/SUUIF/dividends/yield?source=news_bullet\">Forward yield</a> 7.59%</li>\n<li>Payable July 15; to shareholders of record June 28; ex-div June 28.</li>\n<li><a href=\"https://seekingalpha.com/symbol/SUUIF/dividends?source=news_bullet\">See SUUIF Dividend Scorecard, Yield Chart, &amp; Dividend Growth.</a></li>\n</ul>\n<div id=\"more-links\">\n<h2>More on Superior Plus</h2>               <ul>            <li><a href=\"https://seekingalpha.com/symbol/SUUIF/earnings\" class=\"more-link\">Historical earnings data for Superior Plus</a></li>            <li><a href=\"https://seekingalpha.com/symbol/SUUIF/dividends/scorecard\" class=\"more-link\">Dividend scorecard for Superior Plus</a></li>            <li><a href=\"https://seekingalpha.com/symbol/SUUIF/income-statement\" class=\"more-link\">Financial information for Superior Plus</a></li>        </ul>\n</div>",
+        "metered": false,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "52365730",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "14711",
+              "type": "tag"
+            },
+            {
+              "id": "617109",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106241-superior-plus-declares-cad-018-dividend",
+        "canonical": "https://seekingalpha.com/news/4106241-superior-plus-declares-cad-018-dividend",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    },
+    {
+      "id": "4106219",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-15T01:34:58-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "canada": {
+            "id": 34503,
+            "path": "/",
+            "slug": "canada",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "small-cap": {
+            "id": 115422,
+            "path": "/",
+            "slug": "small-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "dividend-stocks": {
+            "id": 612948,
+            "path": "/",
+            "slug": "dividend-stocks",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "market-news-reits": {
+            "id": 612950,
+            "path": "/",
+            "slug": "market-news-reits",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "dividends": {
+            "id": 614464,
+            "path": "/market-news/dividend-stocks",
+            "slug": "dividends",
+            "title": "Dividend Stocks News",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          }
+        },
+        "title": "Melcor Developments declares CAD 0.11 dividend",
+        "isPaywalled": false,
+        "lastModified": "2024-05-15T01:34:59-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul>\n<li>Melcor Developments (<a href=\"https://seekingalpha.com/symbol/MODVF\" title=\"Melcor Developments Ltd.\">OTCPK:MODVF</a>) declares <a href=\"https://seekingalpha.com/pr/19725606-melcor-developments-announces-first-quarter-results-declares-quarterly-dividend-of-0_11-per\" target=\"_blank\" rel=\"nofollow\">CAD 0.11/share quarterly dividend</a>, in line with previous.</li>\n<li>\n<a href=\"https://seekingalpha.com/symbol/MODVF/dividends/yield?source=news_bullet\">Forward yield</a> 3.83%</li>\n<li>Payable June 28; for shareholders of record June 14; ex-div June 14.</li>\n<li>The company has now announced a dividend of CAD 0.11 for two consecutive quarters.</li>\n<li><a href=\"https://seekingalpha.com/symbol/MODVF/dividends?source=news_bullet\">See MODVF Dividend Scorecard, Yield Chart, &amp; Dividend Growth.</a></li>\n</ul>\n<div id=\"more-links\">\n<h2>More on Melcor Developments</h2>   <ul>            <li><a href=\"https://seekingalpha.com/symbol/MODVF/earnings\" class=\"more-link\">Historical earnings data for Melcor Developments</a></li>            <li><a href=\"https://seekingalpha.com/symbol/MODVF/dividends/scorecard\" class=\"more-link\">Dividend scorecard for Melcor Developments</a></li>            <li><a href=\"https://seekingalpha.com/symbol/MODVF/income-statement\" class=\"more-link\">Financial information for Melcor Developments</a></li>        </ul>\n</div>",
+        "metered": false,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "52365730",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "11844",
+              "type": "tag"
+            },
+            {
+              "id": "616821",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106219-melcor-developments-declares-cad-011-dividend",
+        "canonical": "https://seekingalpha.com/news/4106219-melcor-developments-declares-cad-011-dividend",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    },
+    {
+      "id": "4106221",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-15T01:27:21-04:00",
+        "isLockedPro": false,
+        "commentCount": 1,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "us": {
+            "id": 326,
+            "path": "/",
+            "slug": "us",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "large-cap": {
+            "id": 115402,
+            "path": "/",
+            "slug": "large-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "dividend-stocks": {
+            "id": 612948,
+            "path": "/",
+            "slug": "dividend-stocks",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "dividends": {
+            "id": 614464,
+            "path": "/market-news/dividend-stocks",
+            "slug": "dividends",
+            "title": "Dividend Stocks News",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          }
+        },
+        "title": "Northrop Grumman declares $2.06 dividend",
+        "isPaywalled": false,
+        "lastModified": "2024-05-15T01:31:32-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul>\n<li>Northrop Grumman (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/NOC\" title=\"Northrop Grumman Corporation\">NOC</a></span>) declares <a href=\"https://seekingalpha.com/pr/19725611-northrop-grumman-increases-quarterly-dividend-10-percent-to-2_06\" rel=\"nofollow\">$2.06/share quarterly dividend</a>, <font color=\"green\">10.2% increase</font> from prior dividend of $1.87.</li>\n<li>\n<a href=\"https://seekingalpha.com/symbol/NOC/dividends/yield?source=news_bullet\">Forward yield</a> 1.74%</li>\n<li>Payable June 12; to shareholders of record May 28; ex-div May 28.</li>\n<li>The company raised its quarterly dividend by 10.2% after paying a quarterly dividend of $1.87 in each of the previous 4 quarters.</li>\n<li><a href=\"https://seekingalpha.com/symbol/NOC/dividends?source=news_bullet\">See NOC Dividend Scorecard, Yield Chart, &amp; Dividend Growth.</a></li>\n</ul>\n<div id=\"more-links\">\n<h2>More on Northrop Grumman</h2>   <ul>            <li><a href=\"https://seekingalpha.com/article/4690292-why-has-northrop-grumman-stock-underperformed\" class=\"more-link\">Why Has Northrop Grumman Stock Underperformed?</a></li>                        <li><a href=\"https://seekingalpha.com/news/4106152-northrop-grumman-announces-cfo-retirement\" class=\"more-link\">Northrop Grumman announces CFO retirement</a></li>            <li><a href=\"https://seekingalpha.com/news/4100478-putin-plans-drills-for-tactical-nuclear-weapon-to-check-west\" class=\"more-link\">Putin plans drills for tactical nuclear weapon to check West</a></li>        </ul>\n</div>",
+        "metered": false,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "52365730",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "1838",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106221-northrop-grumman-declares-206-dividend",
+        "canonical": "https://seekingalpha.com/news/4106221-northrop-grumman-declares-206-dividend",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    },
+    {
+      "id": "4106238",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-15T01:23:28-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "us": {
+            "id": 326,
+            "path": "/",
+            "slug": "us",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "large-cap": {
+            "id": 115402,
+            "path": "/",
+            "slug": "large-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "dividend-stocks": {
+            "id": 612948,
+            "path": "/",
+            "slug": "dividend-stocks",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "market-news-reits": {
+            "id": 612950,
+            "path": "/",
+            "slug": "market-news-reits",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "dividends": {
+            "id": 614464,
+            "path": "/market-news/dividend-stocks",
+            "slug": "dividends",
+            "title": "Dividend Stocks News",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          }
+        },
+        "title": "Ventas declares $0.45 dividend",
+        "isPaywalled": false,
+        "lastModified": "2024-05-15T01:26:37-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul>\n<li>Ventas (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/VTR\" title=\"Ventas, Inc.\">VTR</a></span>) declares <a href=\"https://seekingalpha.com/pr/19725635-ventas-declares-second-quarter-2024-dividend-of-0_45-per-common-share\" rel=\"nofollow\">$0.45/share quarterly dividend</a>, in line with previous.</li>\n<li>\n<a href=\"https://seekingalpha.com/symbol/VTR/dividends/yield?source=news_bullet\">Forward yield</a> 3.75%</li>\n<li>Payable July 18; to shareholders of record July 1; ex-div July 1.</li>\n<li>The company has now announced a dividend of $0.45 for seventeen consecutive quarters.</li>\n<li><a href=\"https://seekingalpha.com/symbol/VTR/dividends?source=news_bullet\">See VTR Dividend Scorecard, Yield Chart, &amp; Dividend Growth.</a></li>\n</ul>\n<div id=\"more-links\">\n<h2>More on Ventas</h2>               <ul>            <li><a href=\"https://seekingalpha.com/article/4680792-ventas-silver-tsunami-vs-decade-of-underperformance\" class=\"more-link\">Ventas: The Silver Tsunami Vs. A Decade Of Underperformance</a></li>            <li><a href=\"https://seekingalpha.com/news/4103076-ventas-prices-underwritten-senior-notes-offering\" class=\"more-link\">Ventas prices underwritten senior notes offering</a></li>            <li><a href=\"https://seekingalpha.com/news/4097876-ventas-ffo-of-0_78-beats-0_04-revenue-of-1_2b-beats-30m\" class=\"more-link\">Ventas FFO of $0.78 beats by $0.04, revenue of $1.2B beats by $30M</a></li>        </ul>\n</div>",
+        "metered": false,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "52365730",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "6192",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106238-ventas-declares-045-dividend",
+        "canonical": "https://seekingalpha.com/news/4106238-ventas-declares-045-dividend",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    },
+    {
+      "id": "4105936",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-15T00:00:00-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "hidden-from-qp": {
+            "id": 578794,
+            "path": "/",
+            "slug": "hidden-from-qp",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "us-economy": {
+            "id": 614456,
+            "path": "/market-news/us-economy",
+            "slug": "us-economy",
+            "title": "U.S. Economy",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          }
+        },
+        "title": "Wednesday's economic calendar",
+        "isPaywalled": false,
+        "lastModified": "2024-05-15T00:00:00-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul>\n<li>\n<b>7:00</b> MBA Mortgage Applications</li>\n<li>\n<b>8:30</b> Consumer Price Index</li>\n<li>\n<b>8:30</b> Retail Sales</li>\n<li>\n<b>8:30</b> Empire State Mfg Survey</li>\n<li>\n<b>10:00</b> Business Inventories</li>\n<li>\n<b>10:00</b>  Housing Market Index</li>\n<li>\n<b>10:30</b> EIA Petroleum Inventories</li>\n<li>\n<b>12:00 PM</b> Fed's Kashkari Speech</li>\n<li>\n<b>3:20 PM</b> Fed's Bowman Speech</li>\n<li>\n<b>4:00 PM</b> Treasury International Capital</li>\n</ul>\n<div id=\"more-links\">\n<h2>More on US economy</h2>   <ul>            <li><a href=\"https://seekingalpha.com/article/4688994-dollar-is-softer-ahead-of-the-employment-report\" class=\"more-link\">Dollar Is Softer Ahead Of The Employment Report</a></li>            <li><a href=\"https://seekingalpha.com/article/4688411-japan-drives-home-message\" class=\"more-link\">Japan Drives Home Message</a></li>            <li><a href=\"https://seekingalpha.com/article/4687912-may-day-fed-day\" class=\"more-link\">May Day Fed Day</a></li>            <li><a href=\"https://seekingalpha.com/news/4105390-european-stocks-with-the-most-inverse-correlation-to-the-us10t-ms\" class=\"more-link\">European stocks with the most inverse correlation to the US10T - MS</a></li>            <li><a href=\"https://seekingalpha.com/news/4105197-treasury-yields-fall-due-to-rate-cuts-should-come-back-up-in-months-ing-group\" class=\"more-link\">Treasury yields’ fall due to rate cuts should come back up in months - ING Group</a></li>        </ul>\n</div>",
+        "metered": false,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "58875271",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": []
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4105936-wednesdays-economic-calendar",
+        "canonical": "https://seekingalpha.com/news/4105936-wednesdays-economic-calendar",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    },
+    {
+      "id": "4106247",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T22:47:25-04:00",
+        "isLockedPro": false,
+        "commentCount": 8,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1139073776/image_1139073776.jpg",
+        "videoPreviewUrl": null,
+        "themes": {
+          "us": {
+            "id": 326,
+            "path": "/",
+            "slug": "us",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "large-cap": {
+            "id": 115402,
+            "path": "/",
+            "slug": "large-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "hidden-from-qp": {
+            "id": 578794,
+            "path": "/",
+            "slug": "hidden-from-qp",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Boeing ran afoul of criminal settlement on 737 crashes, DOJ says",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T23:45:29-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<p>The U.S. Department of Justice on Tuesday said Boeing (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/BA\" title=\"The Boeing Company\">BA</a></span>) violated a legal settlement concerning the role of its employees in two deadly plane crashes. The claim exposes the plane maker to possible criminal charges.</p> <p>Boeing (<a href=\"https://seekingalpha.com/symbol/BA\" title=\"The Boeing Company\">BA</a>) in January<span class=\"paywall-full-content invisible\"> 2021 said two employees misled federal authorities about the 737 MAX jet, and was granted corporate probation to avert prosecution.</span></p> <p class=\"paywall-full-content invisible\">The claim comes several months after a new Boeing (<a href=\"https://seekingalpha.com/symbol/BA\" title=\"The Boeing Company\">BA</a>) 737 MAX lost a door panel shortly after takeoff, forcing an emergency landing. The plane was the same model involved in the earlier crashes.</p> <p class=\"paywall-full-content invisible\">Boeing (<a href=\"https://seekingalpha.com/symbol/BA\" title=\"The Boeing Company\">BA</a>) in April told the U.S. Federal Aviation Administration that workers may have falsified records on the 787 Dreamliner jets.</p> <div id=\"more-links\" class=\"paywall-full-content invisible\"> <h2>More on Boeing</h2> <ul> <li><a href=\"https://seekingalpha.com/article/4686887-is-boeing-stock-a-buy-or-a-sell-after-earnings\" class=\"more-link\">Is Boeing Stock A Buy Or A Sell After Earnings?</a></li> <li><a href=\"https://seekingalpha.com/article/4685854-boeing-all-about-the-cash-burn\" class=\"more-link\">Boeing: All About The Cash Burn</a></li> <li><a href=\"https://seekingalpha.com/article/4685762-boeing-company-ba-q1-2024-earnings-call-transcript\" class=\"more-link\">The Boeing Company (BA) Q1 2024 Earnings Call Transcript</a></li> <li><a href=\"https://seekingalpha.com/news/4105920-boeings-deliveries-hit-two-year-low-in-april-at-24-planes\" class=\"more-link\">Boeing's deliveries hit two-year low in April at 24 planes</a></li> <li><a href=\"https://seekingalpha.com/news/4105745-boeings-lockout-of-firefighters-criticized-by-unions-lawmakers\" class=\"more-link\">Boeing’s lockout of firefighters criticized by unions, lawmakers</a></li> </ul> </div>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "57065721",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "769",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106247-boeing-ran-afoul-of-criminal-settlement-on-737-crashes-doj-says",
+        "canonical": "https://seekingalpha.com/news/4106247-boeing-ran-afoul-of-criminal-settlement-on-737-crashes-doj-says",
+        "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1139073776/image_1139073776.jpg?io=getty-c-w750",
+        "schemaImage": [
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1139073776/image_1139073776.jpg?io=getty-c-w1280",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1139073776/image_1139073776.jpg?io=getty-c-crop-16-9",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1139073776/image_1139073776.jpg?io=getty-c-crop-4-3"
+        ]
+      }
+    },
+    {
+      "id": "4106246",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T22:25:48-04:00",
+        "isLockedPro": false,
+        "commentCount": 24,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1235897372/image_1235897372.jpg",
+        "videoPreviewUrl": null,
+        "themes": {
+          "brazil": {
+            "id": 18040,
+            "path": "/",
+            "slug": "brazil",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "large-cap": {
+            "id": 115402,
+            "path": "/",
+            "slug": "large-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "energy": {
+            "id": 614461,
+            "path": "/market-news/energy",
+            "slug": "energy",
+            "title": "Energy ",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Petrobras CEO Prates ousted by Lula after dividend dispute",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T22:37:58-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<p>Petrobras (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/PBR\" title=\"Petróleo Brasileiro S.A. - Petrobras\">PBR</a></span>) <span class=\"red\">-6.9%</span> post-market Tuesday following news that CEO Jean Paul Prates was <a href=\"https://www.bnnbloomberg.ca/brazil-president-lula-fires-petrobras-ceo-after-dividend-dispute-1.2073034\" target=\"_blank\">fired</a> by Brazil President Luiz Inacio Lula da Silva, to be replaced by Magda Chambriard, the former head of Brazilian oil and gas regulator ANP.</p> <p>Prates became CEO in<span class=\"paywall-full-content invisible\"> January 2023, shortly after Lula assumed the presidency, but the change at the top had been speculated for months because of a dispute over dividend payments.</span></p> <p class=\"paywall-full-content invisible\">The CEO's departure represents a victory for members of Lula's cabinet that were pushing for lower domestic fuel prices, smaller dividends and more capital spending to create jobs.</p> <p class=\"paywall-full-content invisible\">Prates' exit is \"a deterioration of Petrobras governance and a <a href=\"https://www.reuters.com/markets/commodities/petrobras-ceo-offers-resignation-us-listed-shares-tumble-2024-05-15/\" target=\"_blank\">downside risk</a> for the investment thesis,\" Citi analysts Gabriel Barra and Andres Cardona write. \"The new CEO arrives with the pressure to fulfill the investment plan and accelerate the capex expansion, which may negatively impact the company's dividend payment.\"</p> <p class=\"paywall-full-content invisible\">The Petrobras (<a href=\"https://seekingalpha.com/symbol/PBR\" title=\"Petróleo Brasileiro S.A. - Petrobras\">PBR</a>) board will meet Wednesday to discuss the proposed departure, the company said.</p> <div id=\"more-links\" class=\"paywall-full-content invisible\"> <h2>More on Petrobras</h2> <ul> <li><a href=\"https://seekingalpha.com/article/4689610-the-petrobras-absurdity-yield-exceeds-pe\" class=\"more-link\">The Petrobras Absurdity: Yield Exceeds P/E</a></li> <li><a href=\"https://seekingalpha.com/article/4685005-petrobras-stock-should-not-unnerved-overblown-dividend-crisis\" class=\"more-link\">Petrobras: We Shouldn't Be Unnerved By The Overblown Dividend Crisis</a></li> <li><a href=\"https://seekingalpha.com/article/4683747-petrobras-repeating-past-mistakes-i-dont-recommend-buying-stock\">Petrobras: Repeating Past Mistakes, I Don't Recommend Buying Shares</a></li> </ul> </div>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "543215",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "1770",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106246-petrobras-ceo-prates-ousted-by-lula-after-dividend-dispute",
+        "canonical": "https://seekingalpha.com/news/4106246-petrobras-ceo-prates-ousted-by-lula-after-dividend-dispute",
+        "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1235897372/image_1235897372.jpg?io=getty-c-w750",
+        "schemaImage": [
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1235897372/image_1235897372.jpg?io=getty-c-w1280",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1235897372/image_1235897372.jpg?io=getty-c-crop-16-9",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1235897372/image_1235897372.jpg?io=getty-c-crop-4-3"
+        ]
+      }
+    },
+    {
+      "id": "4106245",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T19:45:22-04:00",
+        "isLockedPro": false,
+        "commentCount": 11,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1254562568/image_1254562568.jpg",
+        "videoPreviewUrl": null,
+        "themes": {
+          "us": {
+            "id": 326,
+            "path": "/",
+            "slug": "us",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "large-cap": {
+            "id": 115402,
+            "path": "/",
+            "slug": "large-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "energy": {
+            "id": 614461,
+            "path": "/market-news/energy",
+            "slug": "energy",
+            "title": "Energy ",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Exxon makes new oil discovery offshore Angola - S&P Global",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T19:45:23-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<p>Exxon Mobil (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/XOM\" title=\"Exxon Mobil Corporation\">XOM</a></span>) has <a href=\"https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/oil/051424-exxonmobil-makes-new-oil-discovery-on-angolas-block-15-sources\" target=\"_blank\">found oil</a> at its Likembe-01 research well in Angola's offshore Block 15, two years after the last discovery on the license, <em>S&amp;P Global Insights</em> reported Tuesday.</p> <p>Angola's energy regulator reportedly said the well was drilled between<span class=\"paywall-full-content invisible\"> February and April to a maximum water depth of 3,013 meters.</span></p> <p class=\"paywall-full-content invisible\">Likembe-01 is the first well to be drilled as part of an incremental production initiative by Angola to boost crude output from existing oil and gas projects in a bid to reverse years of production declines.</p> <p class=\"paywall-full-content invisible\">Exxon (<a href=\"https://seekingalpha.com/symbol/XOM\" title=\"Exxon Mobil Corporation\">XOM</a>) operates the block with a 40% interest, alongside partners Sonangol, Equinor (<a href=\"https://seekingalpha.com/symbol/EQNR\" title=\"Equinor ASA\">EQNR</a>) and BP-Eni (<a href=\"https://seekingalpha.com/symbol/BP\" title=\"BP p.l.c.\">BP</a>) (<a href=\"https://seekingalpha.com/symbol/E\" title=\"Eni S.p.A.\">E</a>) joint venture Azule Energy; it is one of three deepwater blocks held by Exxon offshore Angola.</p> <p class=\"paywall-full-content invisible\">Separately, Exxon (<a href=\"https://seekingalpha.com/symbol/XOM\" title=\"Exxon Mobil Corporation\">XOM</a>) is <a href=\"https://www.thestar.com/news/canada/exxonmobil-readying-to-drill-exploratory-deepwater-oil-well-off-newfoundland/article_ef372d90-0140-507c-8322-86a9e43e2de7.html\" target=\"_blank\">preparing to drill</a> an exploratory deepwater oil well ~500 km off the east coast of Newfoundland, Canadian Press reports.</p> <p class=\"paywall-full-content invisible\">The well will be drilled in the offshore Orphan Basin, which is north of the Flemish Pass Basin, where Equinor (<a href=\"https://seekingalpha.com/symbol/EQNR\" title=\"Equinor ASA\">EQNR</a>) is considering developing the Bay du Nord project, which would be Canada's first deepwater oil production operation.</p> <div id=\"more-links\" class=\"paywall-full-content invisible\"> <h2>More on Exxon Mobil</h2> <ul> <li><a href=\"https://seekingalpha.com/article/4692580-exxon-mobil-stock-is-not-as-overvalued-as-you-may-think\" class=\"more-link\">Exxon Mobil Stock Is Not As Overvalued As You May Think</a></li> <li><a href=\"https://seekingalpha.com/article/4689939-exxon-mobil-q1-earnings-not-cheap-still-buying-opportunity-technical-analysis\" class=\"more-link\">Exxon Mobil: Not Cheap, Still A Buying Opportunity</a></li> <li><a href=\"https://seekingalpha.com/article/4689748-exxonmobil-plays-it-safe-with-hydrocarbons-sidelines-direct-air-capture\" class=\"more-link\">Exxon Mobil Plays It Safe With Hydrocarbons, Sidelines Direct Air Capture</a></li> </ul> </div>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "543215",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "1198",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "921",
+              "type": "tag"
+            },
+            {
+              "id": "2359",
+              "type": "tag"
+            },
+            {
+              "id": "581887",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106245-exxon-makes-new-oil-discovery-offshore-angola-sp-global",
+        "canonical": "https://seekingalpha.com/news/4106245-exxon-makes-new-oil-discovery-offshore-angola-sp-global",
+        "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1254562568/image_1254562568.jpg?io=getty-c-w750",
+        "schemaImage": [
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1254562568/image_1254562568.jpg?io=getty-c-w1280",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1254562568/image_1254562568.jpg?io=getty-c-crop-16-9",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1254562568/image_1254562568.jpg?io=getty-c-crop-4-3"
+        ]
+      }
+    },
+    {
+      "id": "4106244",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T19:25:36-04:00",
+        "isLockedPro": false,
+        "commentCount": 10,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/960374702/image_960374702.jpg",
+        "videoPreviewUrl": null,
+        "themes": {
+          "us": {
+            "id": 326,
+            "path": "/",
+            "slug": "us",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "large-cap": {
+            "id": 115402,
+            "path": "/",
+            "slug": "large-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "energy": {
+            "id": 614461,
+            "path": "/market-news/energy",
+            "slug": "energy",
+            "title": "Energy ",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "U.S. appeals court upholds biofuel blending targets for 2020-22, rejecting refiners",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T19:39:02-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<p>The District of Columbia Circuit Court of Appeals issued a ruling Tuesday <a href=\"https://www.reuters.com/legal/us-appeals-court-upholds-biofuel-blending-mandates-2020-2022-2024-05-14/\" target=\"_blank\">upholding</a> the Biden administration's biofuel blending requirements for 2020-22 under the Renewable Fuel Standard, rejecting a challenge by oil refiners.</p> <p>The ruling left intact a 2022 rule set<span class=\"paywall-full-content invisible\"> by the Environmental Protection Agency that required renewable fuel blending to rise to 20.63B gallons for that year, as well as retroactive volume mandates for 2021 at 18.84B gallons and for 2020 at 17.13B gallons.</span></p> <p class=\"paywall-full-content invisible\">For the first time under the RFS, the rule had used a new formula that tried to avoid a recurring situation in which the EPA failed to account for requests for exemptions by small refineries.</p> <p class=\"paywall-full-content invisible\">Oil refiners challenged the rule, arguing the standards were too high, while producers of biofuels derived from wood waste and other feedstocks also challenged the rule, saying the standards were too low.</p> <p class=\"paywall-full-content invisible\">Potentially relevant stocks include Valero Energy (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/VLO\" title=\"Valero Energy Corporation\">VLO</a></span>), Exxon Mobil (<a href=\"https://seekingalpha.com/symbol/XOM\" title=\"Exxon Mobil Corporation\">XOM</a>), Archer-Daniels-Midland (<a href=\"https://seekingalpha.com/symbol/ADM\" title=\"Archer-Daniels-Midland Company\">ADM</a>), Green Plains (<a href=\"https://seekingalpha.com/symbol/GPRE\" title=\"Green Plains Inc.\">GPRE</a>), REX American Resources (<a href=\"https://seekingalpha.com/symbol/REX\" title=\"REX American Resources Corporation\">REX</a>), LyondellBasell (<a href=\"https://seekingalpha.com/symbol/LYB\" title=\"LyondellBasell Industries N.V.\">LYB</a>), Aemetis (<a href=\"https://seekingalpha.com/symbol/AMTX\" title=\"Aemetis, Inc.\">AMTX</a>) and Gevo (<a href=\"https://seekingalpha.com/symbol/GEVO\" title=\"Gevo, Inc.\">GEVO</a>).</p> <div id=\"more-links\" class=\"paywall-full-content invisible\"> <h2>More on Valero Energy</h2> <ul> <li><a href=\"https://seekingalpha.com/article/4690080-if-you-like-buybacks-and-dividends-youll-love-valero\" class=\"more-link\">If You Like Buybacks (And Dividends), You'll Love Valero</a></li> <li><a href=\"https://seekingalpha.com/article/4682553-valero-energy-on-the-march-for-summer-ratings-downgrade\" class=\"more-link\">Valero Energy: On The March For Summer</a></li> <li><a href=\"https://seekingalpha.com/article/4682354-crack-spreads-continue-to-support-valero-energy-stock\">Crack Spreads Continue To Support Valero Energy Stock</a></li> </ul> </div>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "543215",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "813",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "1198",
+              "type": "tag"
+            },
+            {
+              "id": "1953",
+              "type": "tag"
+            },
+            {
+              "id": "2621",
+              "type": "tag"
+            },
+            {
+              "id": "16111",
+              "type": "tag"
+            },
+            {
+              "id": "16388",
+              "type": "tag"
+            },
+            {
+              "id": "16745",
+              "type": "tag"
+            },
+            {
+              "id": "19890",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106244-us-appeals-court-upholds-biofuel-blending-targets-for-2020-22-rejecting-refiners",
+        "canonical": "https://seekingalpha.com/news/4106244-us-appeals-court-upholds-biofuel-blending-targets-for-2020-22-rejecting-refiners",
+        "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/960374702/image_960374702.jpg?io=getty-c-w750",
+        "schemaImage": [
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/960374702/image_960374702.jpg?io=getty-c-w1280",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/960374702/image_960374702.jpg?io=getty-c-crop-16-9",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/960374702/image_960374702.jpg?io=getty-c-crop-4-3"
+        ]
+      }
+    },
+    {
+      "id": "4106242",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T18:51:36-04:00",
+        "isLockedPro": false,
+        "commentCount": 8,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg",
+        "videoPreviewUrl": null,
+        "themes": {
+          "financials": {
+            "id": 12974,
+            "path": "/market-news/financials",
+            "slug": "financials",
+            "title": "Financials ",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "large-cap": {
+            "id": 115402,
+            "path": "/",
+            "slug": "large-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Seth Klarman's Baupost cuts Warner Bros. stake, takes in SoundHound, among others",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T18:51:37-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<p>Billionaire investor Seth Klarman's Baupost Group cut its stake in Warner Bros. Discovery (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/WBD\" title=\"Warner Bros. Discovery, Inc.\">WBD</a></span>), exited its position in Tower Semiconductor (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/TSEM\" title=\"Tower Semiconductor Ltd.\">TSEM</a></span>) and snapped up some shares in SoundHound AI (<span class=\"ticker-hover-wrapper\">NASDAQ:<a href=\"https://seekingalpha.com/symbol/SOUN\" title=\"SoundHound AI, Inc.\">SOUN</a></span>) in Q1 2024, among other changes.</p> <p>Baupost disclosed the information<span class=\"paywall-full-content invisible\"> in its latest </span><a href=\"https://www.sec.gov/Archives/edgar/data/1061768/000156761924000317/xslForm13F_X02/form13fInfoTable.xml\" target=\"_blank\" class=\"paywall-full-content invisible\">13F filing</a><span class=\"paywall-full-content invisible\"> for the three months ended March 31, 2024, published on Tuesday.</span></p> <p class=\"paywall-full-content invisible\">The fund slashed its Warner Bros. (<a href=\"https://seekingalpha.com/symbol/WBD\" title=\"Warner Bros. Discovery, Inc.\">WBD</a>) holding to 3.71M series A shares in Q1 from 25.24M in Q4 2023. The entertainment company last week <a href=\"https://seekingalpha.com/news/4103549-warner-bros-discovery-trades-lower-after-studio-revenue-falls-in-q1-streaming-revenue-goes-flat\">reported</a> a quarterly top and bottom line miss, driven by revenue declines in its studios and networks segments.</p> <p class=\"paywall-full-content invisible\">Other stake reductions include a 30.4% cut in infrastructure and engineering firm Jacobs Solutions (<a href=\"https://seekingalpha.com/symbol/J\" title=\"Jacobs Solutions Inc.\">J</a>) to 506.8K shares, a 19% decrease in building materials and products maker CRH (<a href=\"https://seekingalpha.com/symbol/CRH\" title=\"CRH plc\">CRH</a>) to 30.6M shares, and a 12.3% trim in financial services provider Fidelity National Information Services (<a href=\"https://seekingalpha.com/symbol/FIS\" title=\"Fidelity National Information Services, Inc.\">FIS</a>) to 5.58M shares.</p> <p class=\"paywall-full-content invisible\">Baupost disposed off its entire Tower Semiconductor (<a href=\"https://seekingalpha.com/symbol/TSEM\" title=\"Tower Semiconductor Ltd.\">TSEM</a>) stake of 2.71M shares. Other holdings dumped by the fund include biotech Finch Therapeutics (<a href=\"https://seekingalpha.com/symbol/FNCH\" title=\"Finch Therapeutics Group, Inc.\">FNCH</a>), emissions reduction firm Garrett Motion (<a href=\"https://seekingalpha.com/symbol/GTX\" title=\"Garrett Motion Inc.\">GTX</a>) and broadcaster Gray Television (<a href=\"https://seekingalpha.com/symbol/GTN\" title=\"Gray Television, Inc.\">GTN</a>).</p> <p class=\"paywall-full-content invisible\">Baupost picked up 1.13M class A shares in SoundHound (<a href=\"https://seekingalpha.com/symbol/SOUN\" title=\"SoundHound AI, Inc.\">SOUN</a>), a voice artificial intelligence solutions provider.</p> <p class=\"paywall-full-content invisible\">The fund also raised its stake in nutrition supplements marketer Herbalife (<a href=\"https://seekingalpha.com/symbol/HLF\" title=\"Herbalife Ltd.\">HLF</a>) by 33.6% to 2.24M shares.</p> <p class=\"paywall-full-content invisible\">Seth Klarman's Baupost Group manages nearly $30B across a wide range of asset classes, making it one of the largest hedge funds in the U.S. According to Forbes, Klarman's <a href=\"https://www.forbes.com/profile/seth-klarman/?sh=564ba684d759\" target=\"_blank\">real time net worth</a> is $1.3B. </p> <h2 class=\"paywall-full-content invisible\">Related stories</h2> <ul class=\"paywall-full-content invisible\"> <li><a href=\"https://seekingalpha.com/news/4104688-warner-bros-discovery-takes-200m-from-failed-suicide-squad-game\" class=\"more-link\">Warner Bros. Discovery's failed Suicide Squad game highlights industry woes</a></li> <li><a href=\"https://seekingalpha.com/news/4103503-tower-semiconductor-non-gaap-eps-of-0_46-beats-0_07-revenue-of-327_24m-beats-2_81m\">Tower Semiconductor Non-GAAP EPS of $0.46 beats by $0.07, revenue of $327.24M beats by $2.81M</a></li> <li><a href=\"https://seekingalpha.com/news/4104627-soundhound-ai-jumps-as-wedbush-says-ai-momentum-is-front-and-center\" class=\"more-link\">SoundHound AI jumps as Wedbush says AI momentum is 'front and center'</a></li> <li><a href=\"https://seekingalpha.com/news/4100956-jacobs-engineering-beats-q2-bottom-line-estimates\" class=\"more-link\">Jacobs Engineering beats Q2 bottom-line estimates</a></li> <li><a href=\"https://seekingalpha.com/article/4682294-crh-plc-paving-the-way-for-long-term-value-creation\" class=\"more-link\">CRH: Paving The Way For Long-Term Value Creation</a></li> </ul>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "56228617",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "5332",
+              "type": "tag"
+            },
+            {
+              "id": "2073",
+              "type": "tag"
+            },
+            {
+              "id": "608441",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "1175",
+              "type": "tag"
+            },
+            {
+              "id": "3528",
+              "type": "tag"
+            },
+            {
+              "id": "3577",
+              "type": "tag"
+            },
+            {
+              "id": "4255",
+              "type": "tag"
+            },
+            {
+              "id": "8183",
+              "type": "tag"
+            },
+            {
+              "id": "584848",
+              "type": "tag"
+            },
+            {
+              "id": "608938",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106242-seth-klarmans-baupost-cuts-warner-bros-stake-takes-in-soundhound-among-others",
+        "canonical": "https://seekingalpha.com/news/4106242-seth-klarmans-baupost-cuts-warner-bros-stake-takes-in-soundhound-among-others",
+        "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg?io=getty-c-w750",
+        "schemaImage": [
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg?io=getty-c-w1280",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg?io=getty-c-crop-16-9",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451861394/image_451861394.jpg?io=getty-c-crop-4-3"
+        ]
+      }
+    },
+    {
+      "id": "4106243",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T18:50:21-04:00",
+        "isLockedPro": false,
+        "commentCount": 2,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg",
+        "videoPreviewUrl": null,
+        "themes": {
+          "us": {
+            "id": 326,
+            "path": "/",
+            "slug": "us",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "commodities": {
+            "id": 375,
+            "path": "/market-news/commodities",
+            "slug": "commodities",
+            "title": "Commodities ",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "na-cap": {
+            "id": 614453,
+            "path": "/",
+            "slug": "na-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "energy": {
+            "id": 614461,
+            "path": "/market-news/energy",
+            "slug": "energy",
+            "title": "Energy ",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Oil slides to nine-week lows after latest inflation disappointment",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T18:54:16-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<p>Crude oil futures closed at its lowest since mid-March on Tuesday, following new data that showed inflation in the U.S. remains higher than expected and OPEC left its global oil demand growth forecasts unchanged for this year and next.</p> <p>The<span class=\"paywall-full-content invisible\"> U.S. reported a higher than forecast 0.5% increase in April for the Producer Price Index, leaving prices up by 2.2% Y/Y, compared with 1.8% after March's data.</span></p> <p class=\"paywall-full-content invisible\">Also, Federal Reserve Chairman Jerome Powell said he expects U.S. inflation will keep declining through 2024 but warned he is less confident now, since prices rose more quickly than expected through Q1.</p> <p class=\"paywall-full-content invisible\">Investors will now focus on Wednesday's release of U.S. consumer price data, which is bound to spark further speculation on the Fed's policy path on interest rates.</p> <p class=\"paywall-full-content invisible\">Meanwhile, OPEC said in its <a href=\"https://momr.opec.org/pdf-download/\" target=\"_blank\">monthly report</a> that it continues to forecast oil demand will grow by 2.2M bbl/day in 2024 and by 1.8M bbl/day in 2025, the same as the group's previous estimates.</p> <p class=\"paywall-full-content invisible\">Prices were supported by the continued potential risks to supply from Mideast tensions and wildfires in western Canada.</p> <p class=\"paywall-full-content invisible\">Front-month Nymex crude (<a href=\"https://seekingalpha.com/symbol/CL1:COM\" title=\"Crude Oil Futures\">CL1:COM</a>) for June delivery closed <span class=\"red\">-1.4%</span> to $78.02/bbl, and front-month July Brent crude (<a href=\"https://seekingalpha.com/symbol/CO1:COM\" title=\"Brent Futures\">CO1:COM</a>) ended <span class=\"red\">-1.2%</span> to $82.38/bbl, the lowest settlement for both benchmarks since March 12.</p> <p class=\"paywall-full-content invisible\">ETFs: (<span class=\"ticker-hover-wrapper\">NYSEARCA:<a href=\"https://seekingalpha.com/symbol/USO\" title=\"United States Oil Fund, LP ETF\">USO</a></span>), (<a href=\"https://seekingalpha.com/symbol/BNO\" title=\"United States Brent Oil Fund, LP\">BNO</a>), (<a href=\"https://seekingalpha.com/symbol/UCO\" title=\"ProShares Trust II - ProShares Ultra Bloomberg Crude Oil\">UCO</a>), (<a href=\"https://seekingalpha.com/symbol/SCO\" title=\"ProShares UltraShort Bloomberg Crude Oil ETF\">SCO</a>), (<a href=\"https://seekingalpha.com/symbol/UNL\" title=\"United States 12 Month Natural Gas Fund, LP\">UNL</a>), (<a href=\"https://seekingalpha.com/symbol/DBO\" title=\"Invesco DB Oil ETF\">DBO</a>), (<a href=\"https://seekingalpha.com/symbol/DRIP\" title=\"Direxion Daily S&amp;P Oil &amp; Gas Exp. &amp; Prod. Bear 2x Shares ETF\">DRIP</a>), (<a href=\"https://seekingalpha.com/symbol/GUSH\" title=\"Direxion Daily S&amp;P Oil &amp; Gas Exp. &amp; Prod. Bull 2x Shares ETF\">GUSH</a>), (<a href=\"https://seekingalpha.com/symbol/NRGU\" title=\"MicroSectors U.S. Big Oil Index 3X Leveraged ETN\">NRGU</a>), (<a href=\"https://seekingalpha.com/symbol/USOI\" title=\"Credit Suisse Crude Oil Shares Covered Call ETN\">USOI</a>)</p> <p class=\"paywall-full-content invisible\">The consensus opinion is that OPEC+ will extend production cuts at its June meeting, but Goldman Sachs says recent mixed messages from Russia and Iraq suggest <a href=\"https://www.wsj.com/finance/commodities-futures/oil-edges-higher-focus-on-opec-iea-monthly-reports-this-week-ccdc90bc\" target=\"_blank\">no final decision has been made yet</a>.</p> <p class=\"paywall-full-content invisible\">\"Based on recent inventory upside surprises and our model estimates, we now expect OPEC+ supply to stay lower for longer,\" the bank says, but its forecasting model suggests an extension of cuts is \"not a done deal.\"</p> <p class=\"paywall-full-content invisible\">Goldman attributes a 53% probability that the cartel and its allies will extend output curbs and a 37% likelihood that they will increase production.</p> <div id=\"more-links\" class=\"paywall-full-content invisible\"> <h2>More on crude oil and energy stocks</h2> <ul> <li><a href=\"https://seekingalpha.com/article/4693236-alarming-trend-developing-us-shale-oil-production-part-2\" class=\"more-link\">An Alarming Trend Is Developing In U.S. Shale Oil Production (Part 2)</a></li> <li><a href=\"https://seekingalpha.com/article/4688683-an-alarming-trend-is-developing-in-us-shale-oil-production\" class=\"more-link\">An Alarming Trend Is Developing In US Shale Oil Production</a></li> <li><a href=\"https://seekingalpha.com/article/4692970-xle-double-digit-dividend-growth-should-be-sustainable\">XLE: Double Digit Dividend Growth Should Be Sustainable</a></li> </ul> </div>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "543215",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "2478",
+              "type": "tag"
+            },
+            {
+              "id": "601518",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "293",
+              "type": "tag"
+            },
+            {
+              "id": "6042",
+              "type": "tag"
+            },
+            {
+              "id": "12920",
+              "type": "tag"
+            },
+            {
+              "id": "15038",
+              "type": "tag"
+            },
+            {
+              "id": "15986",
+              "type": "tag"
+            },
+            {
+              "id": "517766",
+              "type": "tag"
+            },
+            {
+              "id": "517776",
+              "type": "tag"
+            },
+            {
+              "id": "574624",
+              "type": "tag"
+            },
+            {
+              "id": "599018",
+              "type": "tag"
+            },
+            {
+              "id": "601353",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106243-oil-slides-to-nine-week-lows-after-latest-inflation-disappointment",
+        "canonical": "https://seekingalpha.com/news/4106243-oil-slides-to-nine-week-lows-after-latest-inflation-disappointment",
+        "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w750",
+        "schemaImage": [
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1280",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-crop-16-9",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-crop-4-3"
+        ]
+      }
+    },
+    {
+      "id": "4106240",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T18:21:45-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "earnings": {
+            "id": 10,
+            "path": "/market-news/earnings",
+            "slug": "earnings",
+            "title": "Earnings News",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "canada": {
+            "id": 34503,
+            "path": "/",
+            "slug": "canada",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "small-cap": {
+            "id": 115422,
+            "path": "/",
+            "slug": "small-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "breaking-news": {
+            "id": 614459,
+            "path": "/",
+            "slug": "breaking-news",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "High Liner Foods reports Q1 results",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T18:49:09-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul>\n<li>High Liner Foods <a href=\"https://seekingalpha.com/pr/19725576-high-liner-foods-reports-operating-results-for-first-quarter-of-2024\" rel=\"nofollow\">press release</a>  (<a href=\"https://seekingalpha.com/symbol/HLNFF\" title=\"High Liner Foods Incorporated\">OTCPK:HLNFF</a>): Q1 sales volume 67.0 million pounds.</li>\n<li>Gross profit $2.9 million.</li>\n<li>Adjusted EBITDA $34.2 million.</li>\n<li>Net income $16.6 million.</li>\n<li>EPS $0.49.</li>\n<li>Adjusted net income $18.6 million.</li>\n<li>Adjusted diluted EPS $0.55.</li>\n</ul>\n<div id=\"more-links\">\n<h2>More on High Liner Foods</h2>   <ul>            <li><a href=\"https://seekingalpha.com/article/4672621-high-liner-foods-inc-hlnff-q4-2023-earnings-call-transcript\" class=\"more-link\">High Liner Foods Q4 2023 Earnings Call Transcript</a></li>            <li><a href=\"https://seekingalpha.com/symbol/HLNFF/earnings\" class=\"more-link\">Historical earnings data for High Liner Foods</a></li>            <li><a href=\"https://seekingalpha.com/symbol/HLNFF/dividends/scorecard\" class=\"more-link\">Dividend scorecard for High Liner Foods</a></li>            <li><a href=\"https://seekingalpha.com/symbol/HLNFF/income-statement\" class=\"more-link\">Financial information for High Liner Foods</a></li>        </ul>\n</div>",
+        "metered": false,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "57442451",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "17576",
+              "type": "tag"
+            },
+            {
+              "id": "616841",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106240-high-liner-foods-reports-q1-results",
+        "canonical": "https://seekingalpha.com/news/4106240-high-liner-foods-reports-q1-results",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    },
+    {
+      "id": "4106239",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T18:11:15-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "earnings": {
+            "id": 10,
+            "path": "/market-news/earnings",
+            "slug": "earnings",
+            "title": "Earnings News",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "canada": {
+            "id": 34503,
+            "path": "/",
+            "slug": "canada",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "small-cap": {
+            "id": 115422,
+            "path": "/",
+            "slug": "small-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "breaking-news": {
+            "id": 614459,
+            "path": "/",
+            "slug": "breaking-news",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Bird Construction reports Q1 results",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T18:49:50-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul>\n<li>Bird Construction <a href=\"https://seekingalpha.com/pr/19725562-bird-construction-inc-announces-2024-first-quarter-financial-results\" rel=\"nofollow\">press release</a>  (<a href=\"https://seekingalpha.com/symbol/BIRDF\" title=\"Bird Construction Inc.\">OTCPK:BIRDF</a>): Q1 construction revenue of $688.2 million.</li>\n<li>Net income and earnings per share were $10.0 million and $0.19.</li>\n<li>Adjusted earnings and adjusted EPS were $10.6 million and $0.20.</li>\n<li>Adjusted EBITDA of $24.2 million.</li>\n</ul>\n<div id=\"more-links\">\n<h2>More on Bird Construction</h2>   <ul>            <li><a href=\"https://seekingalpha.com/article/4676375-bird-construction-inc-birdf-q4-2023-earnings-call-transcript\" class=\"more-link\">Bird Construction Q4 2023 Earnings Call Transcript</a></li>            <li><a href=\"https://seekingalpha.com/article/4676300-bird-construction-inc-2023-q4-results-earnings-call-presentation\" class=\"more-link\">Bird Construction Inc. 2023 Q4 - Results - Earnings Call Presentation</a></li>            <li><a href=\"https://seekingalpha.com/news/4076390-bird-construction-non-gaap-eps-of-c045-revenue-of-c79207m\" class=\"more-link\">Bird Construction Non-GAAP EPS of C$0.45, revenue of C$792.07M</a></li>            <li><a href=\"https://seekingalpha.com/symbol/BIRDF/earnings\" class=\"more-link\">Historical earnings data for Bird Construction</a></li>            <li><a href=\"https://seekingalpha.com/symbol/BIRDF/dividends/scorecard\" class=\"more-link\">Dividend scorecard for Bird Construction</a></li>        </ul>\n</div>",
+        "metered": false,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "57442451",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "11849",
+              "type": "tag"
+            },
+            {
+              "id": "617348",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106239-bird-construction-reports-q1-results",
+        "canonical": "https://seekingalpha.com/news/4106239-bird-construction-reports-q1-results",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    },
+    {
+      "id": "4106237",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T18:09:20-04:00",
+        "isLockedPro": false,
+        "commentCount": 2,
+        "gettyImageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172876096/image_172876096.jpg",
+        "videoPreviewUrl": null,
+        "themes": {
+          "commodities": {
+            "id": 375,
+            "path": "/market-news/commodities",
+            "slug": "commodities",
+            "title": "Commodities ",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "canada": {
+            "id": 34503,
+            "path": "/",
+            "slug": "canada",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "large-cap": {
+            "id": 115402,
+            "path": "/",
+            "slug": "large-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "on-the-move": {
+            "id": 614457,
+            "path": "/market-news/on-the-move",
+            "slug": "on-the-move",
+            "title": "On the Move",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "news-metered": {
+            "id": 614465,
+            "path": "/",
+            "slug": "news-metered",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Teck CEO sees $3B in annual EBITDA at $5/lb copper; stock hits multiyear high",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T18:50:46-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<p>Teck Resources (<span class=\"ticker-hover-wrapper\">NYSE:<a href=\"https://seekingalpha.com/symbol/TECK\" title=\"Teck Resources Limited\">TECK</a></span>) closed <span class=\"green\">+2.1%</span> in Tuesday's trading to its highest in nearly 13 years after CEO Jonathan Price said the company <a href=\"https://www.reuters.com/markets/commodities/teck-resources-aiming-3-billion-annual-ebidta-focused-building-existing-projects-2024-05-14/\" target=\"_blank\">expects to generate $3B in annual EBITDA</a> if copper prices hit $5/lb.</p> <p>Speaking at a Bank of America conference in<span class=\"paywall-full-content invisible\"> Miami, Price provided a range of predictions for Teck's (</span><a href=\"https://seekingalpha.com/symbol/TECK\" title=\"Teck Resources Limited\" class=\"paywall-full-content invisible\">TECK</a><span class=\"paywall-full-content invisible\">) annual EBITDA at different copper prices, with the lowest at $2B if copper trades at $4/lb, according to Reuters.</span></p> <p class=\"paywall-full-content invisible\">U.S. Comex copper (<a href=\"https://seekingalpha.com/symbol/HG1:COM\" title=\"Copper Futures\">HG1:COM</a>) touched a record $5.082/lb on the front-month May contract Tuesday before settling <span class=\"green\">+3.1%</span> at $4.9535/lb, an all-time closing high; U.S. copper futures are up 8.5% so far this month and 27.6% YTD.</p> <p class=\"paywall-full-content invisible\">ETFs: (<a href=\"https://seekingalpha.com/symbol/CPER\" title=\"United States Commodity Index Funds Trust - United States Copper Index Fund\">CPER</a>), (<a href=\"https://seekingalpha.com/symbol/COPX\" title=\"Global X Copper Miners ETF\">COPX</a>), (<a href=\"https://seekingalpha.com/symbol/JJCTF\" title=\"iPath Bloomberg Copper Subindex Total Return ETN\">OTC:JJCTF</a>)</p> <p class=\"paywall-full-content invisible\">Freeport McMoRan (<a href=\"https://seekingalpha.com/symbol/FCX\" title=\"Freeport-McMoRan Inc.\">FCX</a>) and Southern Copper (<a href=\"https://seekingalpha.com/symbol/SCCO\" title=\"Southern Copper Corporation\">SCCO</a>) also hit new 52-week high, <span class=\"green\">+2.7%</span> and <span class=\"green\">+2.6%</span> respectively in Tuesday's trading.</p> <p class=\"paywall-full-content invisible\">The world has <a href=\"https://www.wsj.com/business/why-the-world-has-gone-cuckoo-for-copper-ef8c385a\" target=\"_blank\">gone cuckoo for copper</a>, with focus on the metal enhanced recently by BHP's $37B offer to buy out rival Anglo American, but Price said Teck (<a href=\"https://seekingalpha.com/symbol/TECK\" title=\"Teck Resources Limited\">TECK</a>) is focused on executing its existing projects when asked whether the company would look to acquire any copper assets.</p> <p class=\"paywall-full-content invisible\">\"There's a lot of discussion in the industry about buy vs. build,\" Price said, \"and when people are looking at projects with capital intensities above $30,000/ton, perhaps buying capacity makes more sense.\"</p> <div id=\"more-links\" class=\"paywall-full-content invisible\"> <h2>More on Teck Resources</h2> <ul> <li><a href=\"https://seekingalpha.com/article/4688328-teck-resources-we-still-see-potential-for-further-gains\" class=\"more-link\">Teck Resources: We Still See Potential For Further Gains</a></li> <li><a href=\"https://seekingalpha.com/article/4686401-teck-resources-solid-q1-with-copper-expansion-progressing\" class=\"more-link\">Teck Resources: Solid Q1 With Copper Expansion Progressing</a></li> <li><a href=\"https://seekingalpha.com/article/4666422-teck-resources-our-top-pick-to-ride-the-copper-boom\">Teck Resources: Our Top Pick To Ride The Copper Boom</a></li> </ul> </div>",
+        "metered": true,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "543215",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "4198",
+              "type": "tag"
+            },
+            {
+              "id": "616583",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": [
+            {
+              "id": "698",
+              "type": "tag"
+            },
+            {
+              "id": "897",
+              "type": "tag"
+            },
+            {
+              "id": "9144",
+              "type": "tag"
+            },
+            {
+              "id": "15765",
+              "type": "tag"
+            },
+            {
+              "id": "35608",
+              "type": "tag"
+            },
+            {
+              "id": "601354",
+              "type": "tag"
+            }
+          ]
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106237-teck-ceo-sees-3b-in-annual-ebitda-at-5lb-copper-stock-hits-multiyear-high",
+        "canonical": "https://seekingalpha.com/news/4106237-teck-ceo-sees-3b-in-annual-ebitda-at-5lb-copper-stock-hits-multiyear-high",
+        "uriImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172876096/image_172876096.jpg?io=getty-c-w750",
+        "schemaImage": [
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172876096/image_172876096.jpg?io=getty-c-w1280",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172876096/image_172876096.jpg?io=getty-c-crop-16-9",
+          "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172876096/image_172876096.jpg?io=getty-c-crop-4-3"
+        ]
+      }
+    },
+    {
+      "id": "4106236",
+      "type": "news",
+      "attributes": {
+        "publishOn": "2024-05-14T18:07:27-04:00",
+        "isLockedPro": false,
+        "commentCount": 0,
+        "gettyImageUrl": null,
+        "videoPreviewUrl": null,
+        "themes": {
+          "earnings": {
+            "id": 10,
+            "path": "/market-news/earnings",
+            "slug": "earnings",
+            "title": "Earnings News",
+            "sasource": "theme_breadcrumb",
+            "non_theme": false
+          },
+          "germany": {
+            "id": 18057,
+            "path": "/",
+            "slug": "germany",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "small-cap": {
+            "id": 115422,
+            "path": "/",
+            "slug": "small-cap",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          },
+          "breaking-news": {
+            "id": 614459,
+            "path": "/",
+            "slug": "breaking-news",
+            "title": null,
+            "sasource": "",
+            "non_theme": true
+          }
+        },
+        "title": "Encavis AG reports Q1 results",
+        "isPaywalled": false,
+        "lastModified": "2024-05-14T18:51:43-04:00",
+        "isExclusive": false,
+        "status": "Active",
+        "content": "<ul>\n<li>Encavis AG (<a href=\"https://seekingalpha.com/symbol/ENCVF\" title=\"Encavis AG\">OTCPK:ENCVF</a>): Q1 net operating revenue of EUR 86.6 million.</li>\n<li>Operating EBITDA were EUR 48.5 million.</li>\n<li>Operating cash flow per share of EUR 0.23.</li>\n</ul>\n<div id=\"more-links\">\n<h2>More on Encavis AG</h2>   <ul>            <li><a href=\"https://seekingalpha.com/symbol/ENCVF/earnings\" class=\"more-link\">Historical earnings data for Encavis AG</a></li>            <li><a href=\"https://seekingalpha.com/symbol/ENCVF/income-statement\" class=\"more-link\">Financial information for Encavis AG</a></li>        </ul>\n</div>",
+        "metered": false,
+        "correctionReason": null
+      },
+      "relationships": {
+        "author": {
+          "data": {
+            "id": "57442451",
+            "type": "newsAuthorUser"
+          }
+        },
+        "sentiments": {
+          "data": []
+        },
+        "primaryTickers": {
+          "data": [
+            {
+              "id": "625247",
+              "type": "tag"
+            }
+          ]
+        },
+        "secondaryTickers": {
+          "data": []
+        },
+        "otherTags": {
+          "data": []
+        },
+        "ratingChangeNotice": {}
+      },
+      "links": {
+        "self": "/news/4106236-encavis-ag-reports-q1-results",
+        "canonical": "https://seekingalpha.com/news/4106236-encavis-ag-reports-q1-results",
+        "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+        "schemaImage": {
+          "@type": "ImageObject",
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "id": "52365730",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 52365730,
+        "image": {
+          "small": "https://static2.seekingalpha.com/images/users_profile/052/365/730/small_pic.png?t=835f32c5de",
+          "medium": "https://static2.seekingalpha.com/images/users_profile/052/365/730/medium_pic.png?t=37e8e2bbc6",
+          "big": "https://static2.seekingalpha.com/images/users_profile/052/365/730/big_pic.png?t=0b1016f886",
+          "extra_large": "https://static2.seekingalpha.com/images/users_profile/052/365/730/extra_large_pic.png?t=396ec2cbd5"
+        },
+        "nick": "Meghavi Singh, SA News Editor",
+        "bio": "<p>Meghavi Singh is an editor on the India news team of Seeking Alpha, based in Pune.</p><p>Before joining Seeking Alpha in 2020, she worked with HSBC Bank for 12+ years in the wealth management and Regulatory Reporting departments. Prior to HSBC, she began her career with Gridstone Research, a financial research start-up, as a research associate for a period of 3 years, tracking company events and financial results for the US Consumer Sector.</p><p>She has two daughters and lives in Pune, India.</p><p> </p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/52365730",
+        "profileUrl": "/user/52365730"
+      }
+    },
+    {
+      "id": "14711",
+      "type": "tag",
+      "attributes": {
+        "slug": "suuif",
+        "name": "SUUIF",
+        "company": "Superior Plus Corp.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/SUUIF"
+      }
+    },
+    {
+      "id": "617109",
+      "type": "tag",
+      "attributes": {
+        "slug": "spb:ca",
+        "name": "SPB:CA",
+        "company": "Superior Plus Corp.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "TSX",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "CAD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/SPB:CA"
+      }
+    },
+    {
+      "id": "11844",
+      "type": "tag",
+      "attributes": {
+        "slug": "modvf",
+        "name": "MODVF",
+        "company": "Melcor Developments Ltd.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": true,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/MODVF"
+      }
+    },
+    {
+      "id": "616821",
+      "type": "tag",
+      "attributes": {
+        "slug": "mrd:ca",
+        "name": "MRD:CA",
+        "company": "Melcor Developments Ltd.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "TSX",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "CAD",
+        "isBdc": false,
+        "isReit": true,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/MRD:CA"
+      }
+    },
+    {
+      "id": "1838",
+      "type": "tag",
+      "attributes": {
+        "slug": "noc",
+        "name": "NOC",
+        "company": "Northrop Grumman Corporation",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/NOC"
+      }
+    },
+    {
+      "id": "6192",
+      "type": "tag",
+      "attributes": {
+        "slug": "vtr",
+        "name": "VTR",
+        "company": "Ventas, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": true,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/VTR"
+      }
+    },
+    {
+      "id": "58875271",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 58875271,
+        "image": {
+          "small": "https://static3.seekingalpha.com/images/users_profile/058/875/271/small_pic.png?t=ddf0cd2a84",
+          "medium": "https://static3.seekingalpha.com/images/users_profile/058/875/271/medium_pic.png?t=1239571bbc",
+          "big": "https://static3.seekingalpha.com/images/users_profile/058/875/271/big_pic.png?t=ab3840fd59",
+          "extra_large": "https://static3.seekingalpha.com/images/users_profile/058/875/271/extra_large_pic.png?t=8ce528ac0e"
+        },
+        "nick": "Vansh Agarwal, SA News Editor",
+        "bio": "",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/58875271",
+        "profileUrl": "/user/58875271"
+      }
+    },
+    {
+      "id": "57065721",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 57065721,
+        "image": {
+          "small": "https://static1.seekingalpha.com/images/users_profile/057/065/721/small_pic.png?t=cfcd921741",
+          "medium": "https://static1.seekingalpha.com/images/users_profile/057/065/721/medium_pic.png?t=656b772399",
+          "big": "https://static1.seekingalpha.com/images/users_profile/057/065/721/big_pic.png?t=017082d0f6",
+          "extra_large": "https://static1.seekingalpha.com/images/users_profile/057/065/721/extra_large_pic.png?t=0831a909a1"
+        },
+        "nick": "Rob Williams, SA News Editor",
+        "bio": "<p>Rob Williams is a senior editor at Seeking Alpha, covering the industrial sector. Before joining SA, Rob worked at Lehman Brothers Holdings Inc., Bloomberg News and Newsmax, among other places. He also helped launch the Budapest Business Journal and the Mexico City Business Journal.</p><p>Rob graduated from Cornell University in Ithaca, New York. He lives with his family near New York City.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/57065721",
+        "profileUrl": "/user/57065721"
+      }
+    },
+    {
+      "id": "769",
+      "type": "tag",
+      "attributes": {
+        "slug": "ba",
+        "name": "BA",
+        "company": "The Boeing Company",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/BA"
+      }
+    },
+    {
+      "id": "543215",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 543215,
+        "image": {
+          "small": "https://static3.seekingalpha.com/images/users_profile/000/543/215/small_pic.png?t=3c3219a91f",
+          "medium": "https://static3.seekingalpha.com/images/users_profile/000/543/215/medium_pic.png?t=f96b8f7e8f",
+          "big": "https://static3.seekingalpha.com/images/users_profile/000/543/215/big_pic.png?t=72ab6b82ec",
+          "extra_large": "https://static3.seekingalpha.com/images/users_profile/000/543/215/extra_large_pic.png?t=a15720dad2"
+        },
+        "nick": "Carl Surran, SA News Editor",
+        "bio": "<p>Carl Surran covers energy, utilities, and natural resources for Seeking Alpha. He joined the company in 2010 after writing about investment and personal finance topics for over 20 years. Carl has a BA from Duke University and an MBA from Rollins College. He is married with one daughter and lives in Florida.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/543215",
+        "profileUrl": "/author/sa-editor-carl-surran"
+      }
+    },
+    {
+      "id": "1770",
+      "type": "tag",
+      "attributes": {
+        "slug": "pbr",
+        "name": "PBR",
+        "company": "Petróleo Brasileiro S.A. - Petrobras",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 8,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/PBR"
+      }
+    },
+    {
+      "id": "1198",
+      "type": "tag",
+      "attributes": {
+        "slug": "xom",
+        "name": "XOM",
+        "company": "Exxon Mobil Corporation",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/XOM"
+      }
+    },
+    {
+      "id": "921",
+      "type": "tag",
+      "attributes": {
+        "slug": "bp",
+        "name": "BP",
+        "company": "BP p.l.c.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 8,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/BP"
+      }
+    },
+    {
+      "id": "2359",
+      "type": "tag",
+      "attributes": {
+        "slug": "e",
+        "name": "E",
+        "company": "Eni S.p.A.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 8,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/E"
+      }
+    },
+    {
+      "id": "581887",
+      "type": "tag",
+      "attributes": {
+        "slug": "eqnr",
+        "name": "EQNR",
+        "company": "Equinor ASA",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 8,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/EQNR"
+      }
+    },
+    {
+      "id": "813",
+      "type": "tag",
+      "attributes": {
+        "slug": "vlo",
+        "name": "VLO",
+        "company": "Valero Energy Corporation",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/VLO"
+      }
+    },
+    {
+      "id": "1953",
+      "type": "tag",
+      "attributes": {
+        "slug": "adm",
+        "name": "ADM",
+        "company": "Archer-Daniels-Midland Company",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/ADM"
+      }
+    },
+    {
+      "id": "2621",
+      "type": "tag",
+      "attributes": {
+        "slug": "gpre",
+        "name": "GPRE",
+        "company": "Green Plains Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/GPRE"
+      }
+    },
+    {
+      "id": "16111",
+      "type": "tag",
+      "attributes": {
+        "slug": "rex",
+        "name": "REX",
+        "company": "REX American Resources Corporation",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/REX"
+      }
+    },
+    {
+      "id": "16388",
+      "type": "tag",
+      "attributes": {
+        "slug": "gevo",
+        "name": "GEVO",
+        "company": "Gevo, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/GEVO"
+      }
+    },
+    {
+      "id": "16745",
+      "type": "tag",
+      "attributes": {
+        "slug": "lyb",
+        "name": "LYB",
+        "company": "LyondellBasell Industries N.V.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/LYB"
+      }
+    },
+    {
+      "id": "19890",
+      "type": "tag",
+      "attributes": {
+        "slug": "amtx",
+        "name": "AMTX",
+        "company": "Aemetis, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/AMTX"
+      }
+    },
+    {
+      "id": "56228617",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 56228617,
+        "image": {
+          "small": "https://static1.seekingalpha.com/images/users_profile/056/228/617/small_pic.png?t=31e1ab2ffb",
+          "medium": "https://static1.seekingalpha.com/images/users_profile/056/228/617/medium_pic.png?t=5186dda02a",
+          "big": "https://static1.seekingalpha.com/images/users_profile/056/228/617/big_pic.png?t=de3081eeeb",
+          "extra_large": "https://static1.seekingalpha.com/images/users_profile/056/228/617/extra_large_pic.png?t=2bfcaa7a92"
+        },
+        "nick": "Anuron Mitra, SA News Editor",
+        "bio": "<p>Anuron is a U.S. stock market reporter for Seeking Alpha. He covers the daily Wall Street report, while also writing analysis pieces centered around equities, Treasury yields, the Federal Reserve and the U.S. economy. He is based in Bengaluru, India.</p><p>Anuron joined Seeking Alpha in March 2022 from Reuters News, where he spent nearly six years and covered U.S. breaking news, India breaking news and the health and pharmaceutical sector. </p><p>Anuron graduated from Christ University in Bengaluru in 2013 and holds a triple undergraduate degree in journalism, psychology and English. </p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/56228617",
+        "profileUrl": "/user/56228617"
+      }
+    },
+    {
+      "id": "5332",
+      "type": "tag",
+      "attributes": {
+        "slug": "wbd",
+        "name": "WBD",
+        "company": "Warner Bros. Discovery, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/WBD"
+      }
+    },
+    {
+      "id": "2073",
+      "type": "tag",
+      "attributes": {
+        "slug": "tsem",
+        "name": "TSEM",
+        "company": "Tower Semiconductor Ltd.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/TSEM"
+      }
+    },
+    {
+      "id": "608441",
+      "type": "tag",
+      "attributes": {
+        "slug": "soun",
+        "name": "SOUN",
+        "company": "SoundHound AI, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/SOUN"
+      }
+    },
+    {
+      "id": "1175",
+      "type": "tag",
+      "attributes": {
+        "slug": "hlf",
+        "name": "HLF",
+        "company": "Herbalife Ltd.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/HLF"
+      }
+    },
+    {
+      "id": "3528",
+      "type": "tag",
+      "attributes": {
+        "slug": "gtn",
+        "name": "GTN",
+        "company": "Gray Television, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/GTN"
+      }
+    },
+    {
+      "id": "3577",
+      "type": "tag",
+      "attributes": {
+        "slug": "fis",
+        "name": "FIS",
+        "company": "Fidelity National Information Services, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/FIS"
+      }
+    },
+    {
+      "id": "4255",
+      "type": "tag",
+      "attributes": {
+        "slug": "j",
+        "name": "J",
+        "company": "Jacobs Solutions Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/J"
+      }
+    },
+    {
+      "id": "8183",
+      "type": "tag",
+      "attributes": {
+        "slug": "crh",
+        "name": "CRH",
+        "company": "CRH plc",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/CRH"
+      }
+    },
+    {
+      "id": "584848",
+      "type": "tag",
+      "attributes": {
+        "slug": "gtx",
+        "name": "GTX",
+        "company": "Garrett Motion Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/GTX"
+      }
+    },
+    {
+      "id": "608938",
+      "type": "tag",
+      "attributes": {
+        "slug": "fnch",
+        "name": "FNCH",
+        "company": "Finch Therapeutics Group, Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NASDAQ",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/FNCH"
+      }
+    },
+    {
+      "id": "2478",
+      "type": "tag",
+      "attributes": {
+        "slug": "uso",
+        "name": "USO",
+        "company": "United States Oil Fund, LP ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/USO"
+      }
+    },
+    {
+      "id": "601518",
+      "type": "tag",
+      "attributes": {
+        "slug": "cl1:com",
+        "name": "CL1:COM",
+        "company": "Crude Oil Futures",
+        "tagKind": "Tags::Ticker",
+        "equityType": "commodity",
+        "exchange": "Commodity",
+        "fundTypeId": 5,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/CL1:COM"
+      }
+    },
+    {
+      "id": "293",
+      "type": "tag",
+      "attributes": {
+        "slug": "uco",
+        "name": "UCO",
+        "company": "ProShares Ultra Bloomberg Crude Oil ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/UCO"
+      }
+    },
+    {
+      "id": "6042",
+      "type": "tag",
+      "attributes": {
+        "slug": "dbo",
+        "name": "DBO",
+        "company": "Invesco DB Oil Fund ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/DBO"
+      }
+    },
+    {
+      "id": "12920",
+      "type": "tag",
+      "attributes": {
+        "slug": "sco",
+        "name": "SCO",
+        "company": "ProShares UltraShort Bloomberg Crude Oil ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/SCO"
+      }
+    },
+    {
+      "id": "15038",
+      "type": "tag",
+      "attributes": {
+        "slug": "unl",
+        "name": "UNL",
+        "company": "United States 12 Month Natural Gas Fund, LP ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/UNL"
+      }
+    },
+    {
+      "id": "15986",
+      "type": "tag",
+      "attributes": {
+        "slug": "bno",
+        "name": "BNO",
+        "company": "United States Brent Oil Fund, LP ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/BNO"
+      }
+    },
+    {
+      "id": "517766",
+      "type": "tag",
+      "attributes": {
+        "slug": "gush",
+        "name": "GUSH",
+        "company": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/GUSH"
+      }
+    },
+    {
+      "id": "517776",
+      "type": "tag",
+      "attributes": {
+        "slug": "drip",
+        "name": "DRIP",
+        "company": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/DRIP"
+      }
+    },
+    {
+      "id": "574624",
+      "type": "tag",
+      "attributes": {
+        "slug": "usoi",
+        "name": "USOI",
+        "company": "Credit Suisse X-Links Crude Oil Shares Covered Call ETNs",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NASDAQ",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/USOI"
+      }
+    },
+    {
+      "id": "599018",
+      "type": "tag",
+      "attributes": {
+        "slug": "nrgu",
+        "name": "NRGU",
+        "company": "MicroSectors™ U.S. Big Oil Index 3X Leveraged ETNs",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/NRGU"
+      }
+    },
+    {
+      "id": "601353",
+      "type": "tag",
+      "attributes": {
+        "slug": "co1:com",
+        "name": "CO1:COM",
+        "company": "Brent Futures",
+        "tagKind": "Tags::Ticker",
+        "equityType": "commodity",
+        "exchange": "Commodity",
+        "fundTypeId": 5,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/CO1:COM"
+      }
+    },
+    {
+      "id": "57442451",
+      "type": "newsAuthorUser",
+      "attributes": {
+        "userId": 57442451,
+        "image": {
+          "small": "https://static3.seekingalpha.com/images/users_profile/057/442/451/small_pic.png?t=d60c0051e9",
+          "medium": "https://static3.seekingalpha.com/images/users_profile/057/442/451/medium_pic.png?t=862adbd2e1",
+          "big": "https://static3.seekingalpha.com/images/users_profile/057/442/451/big_pic.png?t=66b28fd6b3",
+          "extra_large": "https://static3.seekingalpha.com/images/users_profile/057/442/451/extra_large_pic.png?t=ea06d7f748"
+        },
+        "nick": "Ahmed Farhath, SA News Editor",
+        "bio": "<p>U.S. energy companies is my forte but will dabble in any Wall Street news. Experienced in deciphering stock movements, digging SEC filings and debunking PR jargon. Currently News Editor at SeekingAlpha. Former U.S. speed team demon at Reuters.</p>",
+        "slug": "sa-news-team"
+      },
+      "links": {
+        "self": "/user/57442451",
+        "profileUrl": "/user/57442451"
+      }
+    },
+    {
+      "id": "17576",
+      "type": "tag",
+      "attributes": {
+        "slug": "hlnff",
+        "name": "HLNFF",
+        "company": "High Liner Foods Incorporated",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/HLNFF"
+      }
+    },
+    {
+      "id": "616841",
+      "type": "tag",
+      "attributes": {
+        "slug": "hlf:ca",
+        "name": "HLF:CA",
+        "company": "High Liner Foods Incorporated",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "TSX",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "CAD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/HLF:CA"
+      }
+    },
+    {
+      "id": "11849",
+      "type": "tag",
+      "attributes": {
+        "slug": "birdf",
+        "name": "BIRDF",
+        "company": "Bird Construction Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/BIRDF"
+      }
+    },
+    {
+      "id": "617348",
+      "type": "tag",
+      "attributes": {
+        "slug": "bdt:ca",
+        "name": "BDT:CA",
+        "company": "Bird Construction Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "TSX",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "CAD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/BDT:CA"
+      }
+    },
+    {
+      "id": "4198",
+      "type": "tag",
+      "attributes": {
+        "slug": "teck",
+        "name": "TECK",
+        "company": "Teck Resources Limited",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/TECK"
+      }
+    },
+    {
+      "id": "616583",
+      "type": "tag",
+      "attributes": {
+        "slug": "teck.b:ca",
+        "name": "TECK.B:CA",
+        "company": "Teck Resources Limited",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "TSX",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "CAD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/TECK.B:CA"
+      }
+    },
+    {
+      "id": "698",
+      "type": "tag",
+      "attributes": {
+        "slug": "fcx",
+        "name": "FCX",
+        "company": "Freeport-McMoRan Inc.",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/FCX"
+      }
+    },
+    {
+      "id": "897",
+      "type": "tag",
+      "attributes": {
+        "slug": "scco",
+        "name": "SCCO",
+        "company": "Southern Copper Corporation",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "NYSE",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/SCCO"
+      }
+    },
+    {
+      "id": "9144",
+      "type": "tag",
+      "attributes": {
+        "slug": "jjctf",
+        "name": "JJCTF",
+        "company": "iPath® Bloomberg Copper Subindex Total Return(SM) ETN",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/JJCTF"
+      }
+    },
+    {
+      "id": "15765",
+      "type": "tag",
+      "attributes": {
+        "slug": "copx",
+        "name": "COPX",
+        "company": "Global X Copper Miners ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/COPX"
+      }
+    },
+    {
+      "id": "35608",
+      "type": "tag",
+      "attributes": {
+        "slug": "cper",
+        "name": "CPER",
+        "company": "United States Copper Index Fund, LP ETF",
+        "tagKind": "Tags::Ticker",
+        "equityType": "etf",
+        "exchange": "NYSEARCA",
+        "fundTypeId": 1,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": true
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/CPER"
+      }
+    },
+    {
+      "id": "601354",
+      "type": "tag",
+      "attributes": {
+        "slug": "hg1:com",
+        "name": "HG1:COM",
+        "company": "Copper Futures",
+        "tagKind": "Tags::Ticker",
+        "equityType": "commodity",
+        "exchange": "Commodity",
+        "fundTypeId": 5,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/HG1:COM"
+      }
+    },
+    {
+      "id": "625247",
+      "type": "tag",
+      "attributes": {
+        "slug": "encvf",
+        "name": "ENCVF",
+        "company": "Encavis AG",
+        "tagKind": "Tags::Ticker",
+        "equityType": "stocks",
+        "exchange": "OTCMKTS",
+        "fundTypeId": 0,
+        "isDefunct": false,
+        "currency": "USD",
+        "isBdc": false,
+        "isReit": false,
+        "isEtf": false
+      },
+      "relationships": {},
+      "links": {
+        "self": "/symbol/ENCVF"
+      }
+    }
+  ],
+  "meta": {
+    "page": {
+      "title": "Breaking Stock Market News",
+      "description": "Breaking news and real-time stock market updates from Seeking Alpha. Check out the latest investing news and financial headlines.",
+      "listTitle": "Market News",
+      "listDescription": "",
+      "proStatus": 0,
+      "uriImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "size": 15,
+      "totalPages": 636,
+      "total": 9534,
+      "minmaxPublishOn": {
+        "min": 1715724447,
+        "max": 1715751471
+      }
+    },
+    "mone": {
+      "params": {
+        "pu": ""
+      }
+    }
+  }
+}

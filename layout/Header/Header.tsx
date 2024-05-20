@@ -1,21 +1,27 @@
+'use client';
 import styles from './Header.module.css';
-import {HTMLAttributes} from 'react';
-import GithubImage from '@/public/github.svg';
+import {useContext} from 'react';
 import LogoCompanyImage from '@/public/LogoCompany.svg';
 import Link from 'next/link';
 import cn from 'classnames';
+import {GitLogoContext} from '@/context/GitLogo.context';
+import Image from 'next/image';
 
-interface HeaderProps extends HTMLAttributes<HTMLHeadElement> {
+interface HeaderProps {
+	className?: string;
 }
 
 export default function Header({className}: HeaderProps) {
+
+	const GitLogoData = useContext(GitLogoContext);
+
 	return (
 		<header className={cn(className, styles.headerContainer)}>
 			<Link href='/'>
 				<LogoCompanyImage className={styles.logo}/>
 			</Link>
-			<Link href='https://github.com/mister-Mandarin/PurpleSchool-NextCource-Blog' target='_blank'>
-				<GithubImage className={styles.logo}/>
+			<Link href={GitLogoData.link} target='_blank'>
+				<Image src={GitLogoData.img} alt={GitLogoData.alt} width={100} height={25} className={styles.logo}/>
 			</Link>
 		</header>
 	);

@@ -26,7 +26,16 @@ const nextConfig = {
         fileLoaderRule.exclude = /\.svg$/i;
 
         return config;
-    }
+    },
+    images: {
+        remotePatterns: [
+            {
+                protocol: 'https',
+                hostname: 'github.githubassets.com',
+                pathname: '/assets/**',
+            },
+        ],
+    },
 };
 
 export default nextConfig;

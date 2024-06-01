@@ -3,7 +3,7 @@ import LikeCounter from '@/components/LikeCounter/LikeCounter';
 import PostLink from '@/components/PostCard/PostLink/PostLink';
 import {News} from '@/interface/news';
 import {formatTimeAgo} from '@/helpers/formatTime';
-import PostTag from '@/components/PostCard/PostTag/PostTag';
+import PostTag from '@/components/PostTag/PostTag';
 import {parse} from 'node-html-parser';
 
 export default function PostCard({...props}: News) {
@@ -15,7 +15,7 @@ export default function PostCard({...props}: News) {
 		<article className={styles.card}>
 			<img className={styles.image} src={props.links.uriImage} alt='карточка'/>
 			<div className={styles.preHeader}>
-				<PostTag className={styles.tag} data={props.attributes.themes} />
+				<PostTag size='short' data={props.attributes.themes} />
 				<div className={styles.date}>{postDate}</div>
 				<LikeCounter numberLikes={numberLikes} />
 			</div>

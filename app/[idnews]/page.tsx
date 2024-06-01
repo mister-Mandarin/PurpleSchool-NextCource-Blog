@@ -1,21 +1,17 @@
-import allNewsData from '@/helpers/allNewsData';
 import {notFound} from 'next/navigation';
-import {News} from '@/interface/news';
+import {News, NewsData} from '@/interface/news';
+import {getCurrentNewsById} from '@/api/getCurretNewsById';
+import PageNews from '@/pages/PageNews/PageNews';
 
 export default async function currentNews({params}: { params: { idnews: string } }) {
 
-	const a= await allNewsData();
-	const allNews: News[] = a.flatMap(newsGroup => newsGroup);
-	const findCurrentNewsIds = allNews.map(news => news.id);
-	const find = findCurrentNewsIds.find(f => f == params.idnews);
+	const {data}: NewsData = await getCurrentNewsById(Number(params.idnews));
 
-	if (!find) {
+	if (Object.keys(data).length === 0) {
 		notFound();
 	}
 
-	return (
-		<>
-			<p>Это страница новости с id {params.idnews}</p>
-		</>
-	);
-}
+	const news = (data as News);
+
+	return <PageNews {...news}/>;
+} 

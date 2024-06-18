@@ -3,8 +3,15 @@ import styles from './PageNews.module.css';
 import PostTag from '@/components/PostTag/PostTag';
 import LikeCounter from '@/components/LikeCounter/LikeCounter';
 import {formatTimeAgo} from '@/helpers/formatTime';
+import {Comment} from '@/interface/comments';
+import PostComment from '@/components/PostComment/PostComment';
 
-export default function PageNews(NewsData: News) {
+interface PageProps {
+	NewsData: News
+	randomComments: Comment[]
+}
+
+export default function PageNews({NewsData, randomComments}: PageProps) {
 	const attributes = NewsData.attributes;
 	const postDate = formatTimeAgo(new Date(attributes.publishOn));
 
@@ -18,6 +25,12 @@ export default function PageNews(NewsData: News) {
 				<LikeCounter numberLikes={Number(NewsData.id)} />
 			</div>
 			<article className={styles.article} dangerouslySetInnerHTML={{__html: attributes.content}}/>
+			<h2 className={styles.commentTitle}>Комментарии</h2>
+			{randomComments.map((comment) => (
+				<div key={comment.postId} className={styles.commentCard}>
+					<PostComment {...comment} />
+				</div>
+			))}
 		</div>
 	);
 }

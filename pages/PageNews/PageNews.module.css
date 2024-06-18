@@ -43,6 +43,17 @@
     margin-bottom: 15px;
 }
 
+.commentCard {
+    background: var(--white);
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 30px;
+}
+
+.commentTitle {
+    margin-bottom: 20px;
+}
+
 @media screen and (max-width: 570px) {
     .title {
         font-size: 26px;

@@ -5,6 +5,7 @@ import LikeCounter from '@/components/LikeCounter/LikeCounter';
 import {formatTimeAgo} from '@/helpers/formatTime';
 import {Comment} from '@/interface/comments';
 import PostComment from '@/components/PostComment/PostComment';
+import Form from '@/components/Form/Form';
 
 interface PageProps {
 	NewsData: News
@@ -27,10 +28,11 @@ export default function PageNews({NewsData, randomComments}: PageProps) {
 			<article className={styles.article} dangerouslySetInnerHTML={{__html: attributes.content}}/>
 			<h2 className={styles.commentTitle}>Комментарии</h2>
 			{randomComments.map((comment) => (
-				<div key={comment.postId} className={styles.commentCard}>
+				<div key={Math.floor(Math.random() * 1000)} className={styles.commentCard}>
 					<PostComment {...comment} />
 				</div>
 			))}
+			<Form />
 		</div>
 	);
 }

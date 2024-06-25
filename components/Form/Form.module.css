@@ -1,0 +1,63 @@
+.form {
+    display: grid;
+    max-width: 640px;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.form input,
+.form textarea {
+    border: 1px solid var(--gray-20);
+    border-radius: 8px;
+    background: var(--white);
+    padding: 18px 29px;
+}
+
+.form input::placeholder,
+.form textarea::placeholder {
+    color: var(--gray-20);
+}
+
+.form button {
+    cursor: pointer;
+    border-radius: 8px;
+    background: var(--black-30);
+    padding: 14px 44px;
+    color: var(--white);
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    text-align: center;
+}
+
+.form button:disabled {
+    background: var(--gray-20);
+}
+
+.form input[type="text"],
+.form input[type="email"] {
+    grid-column: span 1;
+}
+
+.form textarea {
+    grid-column: span 2;
+}
+
+.form button {
+    grid-column: span 1;
+    justify-self: start;
+}
+
+@media (max-width: 580px) {
+    .form {
+        grid-template-columns: 1fr;
+    }
+    .form input[type="text"],
+    .form input[type="email"] {
+        grid-column: span 1;
+    }
+    .form textarea,
+    .form button {
+        grid-column: span 1;
+    }
+}

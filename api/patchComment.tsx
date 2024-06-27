@@ -1,11 +1,10 @@
+import {delay} from '@/helpers/delay';
 import {newComment} from '@/interface/comments';
 
-export async function patchComment(rawFormData: { [p: string]: string | File }){
+export async function patchComment(rawFormData: newComment){
 
-	// имитация задержки
-	await new Promise((res) => setTimeout(() => {
-    	res('');
-	}, 3000));
+	await delay(3000);
+
 	const res = await fetch('https://jsonplaceholder.typicode.com/posts/1', {
 		method: 'PATCH',
 		body: JSON.stringify({

@@ -2,6 +2,7 @@
 import styles from './Form.module.css';
 import {FormEvent, useState} from 'react';
 import {patchComment} from '@/api/patchComment';
+import {newComment} from '@/interface/comments';
 
 export default function Form() {
 	const [pending, setPending] = useState(false);
@@ -10,7 +11,7 @@ export default function Form() {
 		setPending(true);
 		event.preventDefault();
 		const formData = new FormData(event.target as HTMLFormElement);
-		const rawFormData = Object.fromEntries(formData);
+		const rawFormData = Object.fromEntries(formData) as unknown as newComment;
 
 		try {
 			await patchComment(rawFormData);

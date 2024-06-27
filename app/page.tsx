@@ -5,8 +5,9 @@ import styles from './page.module.css';
 
 export default async function Home() {
 	const {data}: NewsData = await getNews();
+	const dataLength = Object.keys(data).length;
 
-	if (Object.keys(data).length === 0) {
+	if (dataLength === 0) {
 		return (
 			<div>Нет данных для отображения.</div>
 		);
@@ -14,7 +15,7 @@ export default async function Home() {
 
 	return (
 		<div className={styles.container}>
-			{Object.keys(data).length > 0 && (data as News[]).map((post: News) => <PostCard key={post.id} {...post}/>)}
+			{dataLength > 0 && (data as News[]).map((post: News) => <PostCard key={post.id} {...post}/>)}
 		</div>
 	);
 }

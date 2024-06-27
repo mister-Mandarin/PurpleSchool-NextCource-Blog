@@ -4,8 +4,17 @@ import {getCurrentNewsById} from '@/api/getCurretNewsById';
 import PageNews from '@/pages/PageNews/PageNews';
 import {getComments} from '@/api/getComments';
 import {Comment} from '@/interface/comments';
+import {getNews} from '@/api/getNews';
 
-export default async function currentNews({params}: { params: { idnews: string } }) {
+export async function generateStaticParams() {
+	const {data}: NewsData = await getNews();
+	const news = (data as News[]);
+	return news.map((news: News) => ({
+		idnews: news.id
+	}));
+}
+
+export default async function CurrentNews({params}: { params: { idnews: string } }) {
 
 	const {data}: NewsData = await getCurrentNewsById(Number(params.idnews));
 	const random100 = Math.floor(Math.random() * 100);

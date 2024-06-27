@@ -1,5 +1,5 @@
 export interface NewsData {
-    data: News[]
+    data: News[] | {};
 }
 
 export interface News {

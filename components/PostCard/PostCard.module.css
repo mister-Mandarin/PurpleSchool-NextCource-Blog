@@ -33,15 +33,6 @@
     margin-left: auto;
 }
 
-.tag {
-    color: var(--gray-black);
-}
-
-.tag::after {
-    content: '·';
-    margin: 0 5px;
-}
-
 .title {
     font-size: 18px;
     font-weight: 700;

@@ -8,7 +8,7 @@ interface LikeCounterProps {
 export default function LikeCounter({numberLikes}: LikeCounterProps) {
 	return (
 		<span className={styles.like}>
-			{numberLikes ? numberLikes : ''}
+			{numberLikes ? numberLikes : ''}&nbsp;
 			<LikeIcon />
 		</span>
 	);

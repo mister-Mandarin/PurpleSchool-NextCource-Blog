@@ -1,21 +1,30 @@
-import allNewsData from '@/helpers/allNewsData';
 import {notFound} from 'next/navigation';
-import {News} from '@/interface/news';
+import {News, NewsData} from '@/interface/news';
+import {getCurrentNewsById} from '@/api/getCurretNewsById';
+import PageNews from '@/pages/PageNews/PageNews';
+import {getComments} from '@/api/getComments';
+import {Comment} from '@/interface/comments';
+import {getNews} from '@/api/getNews';
 
-export default async function currentNews({params}: { params: { idnews: string } }) {
+export async function generateStaticParams() {
+	const {data}: NewsData = await getNews();
+	const news = (data as News[]);
+	return news.map((news: News) => ({
+		idnews: news.id
+	}));
+}
 
-	const a= await allNewsData();
-	const allNews: News[] = a.flatMap(newsGroup => newsGroup);
-	const findCurrentNewsIds = allNews.map(news => news.id);
-	const find = findCurrentNewsIds.find(f => f == params.idnews);
+export default async function CurrentNews({params}: { params: { idnews: string } }) {
 
-	if (!find) {
+	const {data}: NewsData = await getCurrentNewsById(Number(params.idnews));
+	const random100 = Math.floor(Math.random() * 100);
+	const randomComments: Comment[] = await getComments(random100);
+
+	if (Object.keys(data).length === 0) {
 		notFound();
 	}
 
-	return (
-		<>
-			<p>Это страница новости с id {params.idnews}</p>
-		</>
-	);
-}
+	const news = (data as News);
+
+	return <PageNews NewsData={news} randomComments={randomComments} />;
+} 

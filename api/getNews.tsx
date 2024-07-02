@@ -3,7 +3,7 @@
 
 export async function getNews() {
 	const response = await fetch(process.env.NEXT_PUBLIC_API_URL
-		+ '?category=market-news%3A%3Aall&&size=2&number=1', {
+		+ '?category=market-news%3A%3Aall&&size=10&number=1', {
 		method: 'GET',
 		// @ts-ignore
 		headers: {
